@@ -1,4 +1,3 @@
-# File: projects.md
 ---
 layout: page
 title: Projects

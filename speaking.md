@@ -1,4 +1,3 @@
-# File: speaking.md
 ---
 layout: page
 title: Speaking

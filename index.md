@@ -1,4 +1,3 @@
-# File: index.md
 ---
 layout: home
 title: Welcome
