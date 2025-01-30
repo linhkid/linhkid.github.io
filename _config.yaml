@@ -1,0 +1,33 @@
+# File: _config.yml
+title: "Khanh Linh Nguyen"
+author: "Khanh Linh Nguyen"
+description: "AI/ML Expert & Tech Community Leader"
+url: "https://linhkid.github.io"
+baseurl: ""
+
+# Theme settings
+theme: minima
+minima:
+  skin: classic
+  social_links:
+    github: linhkid
+    linkedin: linhnguyenkhanh
+    substack: neuropurrfectai
+
+# Blog settings
+show_excerpts: true
+future: false
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
