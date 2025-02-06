@@ -25,7 +25,7 @@ title: Blog
     margin-bottom: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     .blog-grid {
         grid-template-columns: 1fr;
     }
