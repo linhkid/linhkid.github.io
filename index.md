@@ -49,11 +49,32 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
-- 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co) /| [linhnguyen@u.nus.edu](mailto:linhnguyen@u.nus.edu)
-- 🔗 [LinkedIn](https://linkedin.com/in/linhnguyenkhanh)
-- 📝 [Technical Blog](https://neuropurrfectai.substack.com)
-- 💻 [GitHub](https://github.com/linhkid)
-- 🎓 [Google Scholar](https://t.ly/71Qvo)
+
+<table style="border: none;">
+  <tr>
+    <td style="padding: 4px; border: none; vertical-align: top;">📧</td>
+    <td style="padding: 4px; border: none;">
+      <a href="mailto:linh@neuropurrfectai.co">linh@neuropurrfectai.co</a><br>
+      <a href="mailto:linhnguyen@u.nus.edu">linhnguyen@u.nus.edu</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: none;">🔗</td>
+    <td style="padding: 4px; border: none;"><a href="https://linkedin.com/in/linhnguyenkhanh">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: none;">📝</td>
+    <td style="padding: 4px; border: none;"><a href="https://neuropurrfectai.substack.com">Technical Blog</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: none;">💻</td>
+    <td style="padding: 4px; border: none;"><a href="https://github.com/linhkid">GitHub</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 4px; border: none;">🎓</td>
+    <td style="padding: 4px; border: none;"><a href="https://t.ly/71Qvo">Google Scholar</a></td>
+  </tr>
+</table>
 </div>
 
 <div markdown="1" style="flex: 1;">
@@ -80,8 +101,8 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
   <img src="/assets/logo/obello.jpeg" alt="Obello" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
   <div>
-    <h3 style="margin: 0;">Head of AI & ML at Obello, San Francisco Bay Area - Remote</h3>
-    <em>Aug 2024 – Present</em>
+    <h3 style="margin: 0;">Head of AI & ML at Obello, San Francisco Bay Area</h3>
+    <em>Aug 2024 – Present (Remote)</em>
     <p>Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
     </div>
 </div>
@@ -89,7 +110,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
   <img src="/assets/logo/hj.png" alt="HeyJuni" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
   <div>
-    <h3 style="margin: 0;">Co-Founder & CTO at HeyJuni, Singapore - Remote</h3>
+    <h3 style="margin: 0;">Co-Founder & CTO at HeyJuni, Singapore</h3>
     <em>July 2024 – Present</em>
     <p>Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.</p>
   </div>
@@ -103,29 +124,6 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
     <p>Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.</p>
   </div>
 </div>
-
-[//]: # (### Head of AI & ML at Obello, San Francisco Bay Area - Remote)
-
-[//]: # (*Aug 2024 – Present*)
-
-[//]: # ()
-[//]: # (Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI research capabilities & products that can be considered as state-of-the-art in the industry.)
-
-[//]: # ()
-[//]: # (### Co-Founder & CTO at HeyJuni, Singapore - Remote)
-
-[//]: # (*July 2024 – Present*)
-
-[//]: # ()
-[//]: # (Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.)
-
-[//]: # ()
-[//]: # (### Lead Research Engineer at DataScienceWorks Research Lab, Australia)
-
-[//]: # (*July 2023 – Present*)
-
-[//]: # ()
-[//]: # (Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.)
 
 ## Education
 
