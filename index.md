@@ -164,6 +164,66 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 2. ["A survey on empathetic dialogue systems"](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303092) - Information Fusion (2020)
 3. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
 4. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
+
+---
+
+## Past Experience
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/tcb.jpg" alt="Techcombank" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Senior Manager, Machine Learning Platform & AI Research Lead - Techcombank</h3>
+    <em>Oct 2022 – July 2024</em>
+    <p>Led development of bank-wide ML Ops & Feature Store platform, managing team of Senior Data Scientists & ML Engineers. Developed internal GPT chatbot, code generator, and neural machine translation model. Implemented Large-scale Graph Machine Learning for transaction networks and fraud detection.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/mediacorp.png" alt="Mediacorp" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Senior Manager - Mediacorp, Singapore</h3>
+    <em>Apr 2022 – Sep 2022</em>
+    <p>Led R&D projects on dialogue systems, grammar correction, topic modeling, sentiment analysis, and legal document summarization. Managed end-to-end development of NLP solutions.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/shopee.jpg" alt="Shopee" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Senior Data Scientist / Senior Algorithm Engineer - Shopee, Singapore</h3>
+    <em>Dec 2020 – Mar 2022</em>
+    <p>Developed Multilingual Neural Machine Translation for cross-border markets. Implemented and deployed large-scale, real-time NLP models for production. Led language-related technical initiatives across teams.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/contilogo.png" alt="Continental" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">AI Specialist - AIR Labs, Continental Automotive, Singapore</h3>
+    <em>July 2018 – Dec 2020</em>
+    <p>Led and researched multiple AI initiatives including ContiTech Digital Assistant, Voice-based "Connie" Digital Sales Assistant, and AI for Software Engineering. Implemented cutting-edge NLP and speech recognition solutions.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/i2r.png" alt="A*STAR" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Research Engineer - A*STAR, Institute for Infocomm Research (I2R)</h3>
+    <em>June 2015 – July 2018</em>
+    <p>Developed NLP modules for MINDEF and Baidu Search. Implemented Information Retrieval, Part-Of-Speech tagging, and Tokenization systems. Led Risk Management initiatives.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/ibm.svg" alt="IBM" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Data Scientist and Researcher (Intern) - IBM</h3>
+    <em>August 2014 – November 2014</em>
+    <p>Developed data crawling and information extraction systems. Implemented text mining solutions using Python and Apache Solr.</p>
+  </div>
+</div>
+
+---
 </div>
 
 </div>

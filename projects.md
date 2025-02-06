@@ -63,7 +63,7 @@ h1, h2 { color: #631919; }
 h3 { color: #7d3f3f; }
 </style>
 
-# Projects & Publications
+# Projects 
 
 ## Technical Projects
 
@@ -115,11 +115,43 @@ h3 { color: #7d3f3f; }
     </div>
 </div>
 
-[Continue with similar formatting for other projects...]
-
 ## Community Projects
 
-[Format community projects similarly...]
+<div class="project-card">
+    <div class="project-header">
+        <h3 class="project-title">ArXiv Digest Extra</h3>
+    </div>
+    <img src="/assets/img/obello_banner.png" alt="Obello Banner">
+    <p>Forked and continued to developed an advanced paper recommendation system powered by large language models, running on Huggingface Spaces. The system processes ArXiv papers in real-time, providing personalized research recommendations based on user interests and reading history. Features include semantic search capabilities, citation network analysis, and automated paper summarization.</p>
+    <div class="project-links">
+       <a href="https://github.com/linhkid/ArxivDigest-extra">💻 GitHub</a>
+       <a href="https://huggingface.co/spaces/linhkid91/ArxivDigest-extra">🤗 Huggingface Space</a>
+    </div>
+</div>
+
+<div class="project-card">
+    <div class="project-header">
+        <h3 class="project-title">NeuroPurrfect AI</h3>
+    </div>
+    <img src="/assets/img/NPA.png" alt="NeuroPurrfect AI">
+    <p>Established a community-focused technical blog and service platform providing affordable AI/ML consulting and educational resources. The platform features in-depth technical articles, tutorials, and case studies focused on practical applications of AI technologies. Regular contributions include implementation guides for emerging AI technologies and best practices for responsible AI development.</p>
+    <div class="project-links">
+        <a href="https://neuropurrfectai.substack.com/">🌐 Website</a>
+    </div>
+</div>
+
+
+<div class="project-card">
+    <div class="project-header">
+        <h3 class="project-title">Beautiful Mind Vietnam</h3>
+    </div>
+    <img src="/assets/img/NPA.png" alt="NeuroPurrfect AI">
+    <p>I founded Beautiful Mind Vietnam (BMVN) in 2015 and it is still currently Vietnam's first non-profit organization dedicated to mental health support, reaching over 200,000 followers across social media platforms. The organization provides free mental health services, including psychological first-aid and peer support, educational resources, and community support programs. We've also supported and even rescued more than 1000 anonymous people with mental health & abuse issues. Beautiful Mind Vietnam won <a href="http://2017.wechoice.vn/de-cu-hang-muc-doi-song-gioi-tre.htm"> 2017 WECHOICE AWARD </a> for its outstanding social impact, and also being featured on <a href="https://www.wannatalkaboutit.com/vn/">Netflix's resource page </a> for mental health. </p>
+    <div class="project-links">
+        <a href="https://beautifulmindvn.com/">🌐 Website</a>
+        <a href="https://www.facebook.com/beautifulmindvn">🌐 Facebook Page</a>
+    </div>
+</div>
 
 ---
 
