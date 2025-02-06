@@ -42,6 +42,44 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
     color: #3a0000;
 }
 
+
+.experience-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+
+.logo-container {
+    width: 80px;  /* Fixed width container */
+    height: 80px; /* Fixed height container */
+    min-width: 80px; /* Prevent container from shrinking */
+    margin-right: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-container img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Maintain aspect ratio */
+}
+
+.experience-content {
+    flex: 1;
+}
+
+.experience-content h3 {
+    margin: 0;
+    color: #631919;
+}
+
+.experience-date {
+    font-style: italic;
+    color: #666;
+    margin: 0.3rem 0 0.8rem 0;
+}
+
 </style>
 <div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
@@ -205,20 +243,24 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <img src="/assets/logo/i2r.png" alt="A*STAR" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  <div>
-    <h3 style="margin: 0;">Research Engineer - A*STAR, Institute for Infocomm Research (I2R)</h3>
-    <em>June 2015 – July 2018</em>
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/i2r.png" alt="A*STAR">
+  </div>
+  <div class="experience-content">
+    <h3>Research Engineer - A*STAR, Institute for Infocomm Research (I2R)</h3>
+    <div class="experience-date">June 2015 – July 2018</div>
     <p>Developed NLP modules for MINDEF and Baidu Search. Implemented Information Retrieval, Part-Of-Speech tagging, and Tokenization systems. Led Risk Management initiatives.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <img src="/assets/logo/ibm.svg" alt="IBM" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  <div>
-    <h3 style="margin: 0;">Data Scientist and Researcher (Intern) - IBM</h3>
-    <em>August 2014 – November 2014</em>
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/ibm.svg" alt="IBM"> 
+</div>
+  <div class="experience-content">
+    <h3>Data Scientist and Researcher (Intern) - IBM</h3>
+   <div class="experience-date">August 2014 – November 2014</div>
     <p>Developed data crawling and information extraction systems. Implemented text mining solutions using Python and Apache Solr.</p>
   </div>
 </div>
