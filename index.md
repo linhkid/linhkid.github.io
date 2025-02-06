@@ -3,7 +3,7 @@ layout: home
 title: Nguyen Khanh Linh, Ms.
 ---
 
-<div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto; padding: 0 1rem;">
+<div markdown="1" style="display: flex; gap: 3rem; width: 100%; margin: 0 auto; padding: 0 1rem;">
 <div markdown="1" style="flex: 0 0 250px;">
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
@@ -15,7 +15,7 @@ title: Nguyen Khanh Linh, Ms.
 - 🎓 [Google Scholar](https://t.ly/71Qvo)
 </div>
 
-<div markdown="1" style="flex: 1;">
+<div markdown="1" style="flex: 1; width: 1200px">
 # About Me
 ### Top Artificial Intelligence (AI) Voice of LinkedIn '24
 
