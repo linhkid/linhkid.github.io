@@ -94,8 +94,8 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
 
 ## Education
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/assets/logo/bluedot.jpeg" alt="BlueDot Impact" style="height: 30px; margin-right: 1rem;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <img src="/assets/logo/bluedot.jpeg" alt="BlueDot Impact" style="height: 40px; margin-right: 1rem;">
   <div>
     <strong>AI Safety Fundamentals</strong>, BlueDot Impact (2024)
     <ul style="margin: 0.5rem 0;">
@@ -105,8 +105,8 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/assets/logo/gatech.png" alt="Georgia Tech" style="height: 30px; margin-right: 1rem;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <img src="/assets/logo/gatech.png" alt="Georgia Tech" style="height: 40px; margin-right: 1rem;">
   <div>
     <strong>Georgia Institute of Technology</strong> (2020 – 2021)
     <ul style="margin: 0.5rem 0;">
@@ -115,8 +115,8 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/assets/logo/nus.jpg" alt="NUS" style="height: 30px; margin-right: 1rem;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
+  <img src="/assets/logo/nus.jpg" alt="NUS" style="height: 40px; margin-right: 1rem;">
   <div>
     <strong>National University of Singapore</strong> (July 2015)
     <ul style="margin: 0.5rem 0;">
