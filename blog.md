@@ -1,6 +1,30 @@
 ---
 layout: page
 title: Blog
+---
+
+<style>
+.substack-container {
+    width: 100%;
+    max-width: 1200px;  /* Adjust as needed */
+    margin: 0 auto;
+}
+</style>
+
+<div class="substack-container">
+    <iframe 
+        src="https://neuropurrfectai.substack.com" 
+        width="100%" 
+        height="900px" 
+        style="border:none; background:white;" 
+        frameborder="0" 
+        scrolling="yes"
+    ></iframe>
+</div>
+
+<!-- ---
+layout: page
+title: Blog
 permalink: /blog/
 ---
 
@@ -37,4 +61,4 @@ permalink: /blog/
 - LinkedIn: 374,362+ impressions, 6,406 followers
 - Substack: 8,300+ views, 196 subscribers
 - Beautiful Mind Vietnam: 200,000+ followers
-
+ -->
