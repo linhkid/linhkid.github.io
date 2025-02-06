@@ -31,6 +31,17 @@ title: About Me
     width: 100% !important;
     max-width: none !important;
 }
+
+
+h1 { color: #2c3e50; }  /* Dark blue for main headers */
+h2 { color: #3498db; }  /* Light blue for subheaders */
+h3 { color: #34495e; }  /* Slate for smaller headers */
+
+
+#about-me, #key-skills {
+    color: #2c3e50;
+}
+
 </style>
 <div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
@@ -47,7 +58,7 @@ title: About Me
 
 <div markdown="1" style="flex: 1;">
 # Linh (Kid) Nguyen, Ms.
-### Top Artificial Intelligence (AI) Voice of LinkedIn '24
+#### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
 With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
 
