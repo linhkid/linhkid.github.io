@@ -33,13 +33,13 @@ title: About Me
 }
 
 
-h1 { color: #2c3e50; }  /* Dark blue for main headers */
-h2 { color: #3498db; }  /* Light blue for subheaders */
-h3 { color: #34495e; }  /* Slate for smaller headers */
+h1 { color: #631919; }  /* Dark blue for main headers */
+h2 { color: #7d3f3f; }  /* Light blue for subheaders */
+h3 { color: #3a0000; }  /* Slate for smaller headers */
 
 
-#about-me, #key-skills {
-    color: #2c3e50;
+#about-me {
+    color: #3a0000;
 }
 
 </style>
