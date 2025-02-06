@@ -5,28 +5,57 @@ title: Blog
 
 <style>
 .blog-container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 20px;
 }
 
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 20px;
+}
+
 .post-embed {
-    margin-bottom: 40px;
     background: white;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
 }
 
-.substack-post-embed {
-    padding: 15px;
+.post-embed:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.post-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 15px;
 }
 
 .substack-post-embed p[lang="en"] {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 600;
     margin-bottom: 10px;
     color: #333;
+    /* Limit title to 2 lines */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.substack-post-embed p:not([lang="en"]) {
+    /* Limit description to 3 lines */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: #666;
 }
 
 .substack-post-embed a[data-post-link] {
@@ -42,45 +71,64 @@ title: Blog
 .substack-post-embed a[data-post-link]:hover {
     background: #7d3f3f;
 }
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .blog-grid {
+        grid-template-columns: 1fr; /* Single column on mobile */
+    }
+}
 </style>
 
 <div class="blog-container">
-    <div class="post-embed">
-        <div class="substack-post-embed">
-            <p lang="en">DeepSeek-R1: A New Era in Deep Thinking (including Mathematical reasoning) Through Reinforcement Learning</p>
-            <a data-post-link href="https://neuropurrfectai.substack.com/p/deepseek-r1-a-new-era-in-deep-thinking">Read on Substack</a>
+    <div class="blog-grid">
+        <!-- DeepSeek-R1 Post -->
+        <div class="post-embed">
+          
+            <div class="substack-post-embed">
+                <p lang="en">DeepSeek-R1: A New Era in Deep Thinking (including Mathematical reasoning) Through Reinforcement Learning</p>
+                <a data-post-link href="https://neuropurrfectai.substack.com/p/deepseek-r1-a-new-era-in-deep-thinking">Read on Substack</a>
+            </div>
         </div>
-    </div>
 
-    <div class="post-embed">
-        <div class="substack-post-embed">
-            <p lang="en">In-depth Papers Highlight 1st - 10th August</p>
-            <p>KV-Cache Management is the way to optimize LLM, and better AI alignment with self-improving alignment with LLM-as-a-Meta-Judge... is two of our favorite publications this week.</p>
-            <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-1st-10th">Read on Substack</a>
+        <!-- August 1-10 Papers -->
+        <div class="post-embed">
+        
+            <div class="substack-post-embed">
+                <p lang="en">In-depth Papers Highlight 1st - 10th August</p>
+                <p>KV-Cache Management is the way to optimize LLM, and better AI alignment with self-improving alignment with LLM-as-a-Meta-Judge... is two of our favorite publications this week.</p>
+                <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-1st-10th">Read on Substack</a>
+            </div>
         </div>
-    </div>
 
-    <div class="post-embed">
-        <div class="substack-post-embed">
-            <p lang="en">In-depth Papers Highlight 22nd - 31st July</p>
-            <p>July ends on a high-note with the comparison between RAG and long-context LLMs and guess what? RAG is not always better. ML-Mamba & Graph-Structured Speculative Decoding are also one of the highlights</p>
-            <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-22nd-31st">Read on Substack</a>
+        <!-- July 22-31 Papers -->
+        <div class="post-embed">
+            
+            <div class="substack-post-embed">
+                <p lang="en">In-depth Papers Highlight 22nd - 31st July</p>
+                <p>July ends on a high-note with the comparison between RAG and long-context LLMs and guess what? RAG is not always better. ML-Mamba & Graph-Structured Speculative Decoding are also one of the highlights</p>
+                <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-22nd-31st">Read on Substack</a>
+            </div>
         </div>
-    </div>
 
-    <div class="post-embed">
-        <div class="substack-post-embed">
-            <p lang="en">In-depth Papers Highlight 8th - 21st July</p>
-            <p>A Survey on LLM's efficient inference methods, accuracy is NOT all you need, and also how to detect hallucination in order to combat them... are the theme of these highlights.</p>
-            <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-8th-21th">Read on Substack</a>
+        <!-- July 8-21 Papers -->
+        <div class="post-embed">
+           
+            <div class="substack-post-embed">
+                <p lang="en">In-depth Papers Highlight 8th - 21st July</p>
+                <p>A Survey on LLM's efficient inference methods, accuracy is NOT all you need, and also how to detect hallucination in order to combat them... are the theme of these highlights.</p>
+                <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-8th-21th">Read on Substack</a>
+            </div>
         </div>
-    </div>
 
-    <div class="post-embed">
-        <div class="substack-post-embed">
-            <p lang="en">From WWDC 2024, Apple Intelligence to the race of Open-Source model</p>
-            <p>Corenet is the keyword.</p>
-            <a data-post-link href="https://neuropurrfectai.substack.com/p/from-wwdc-2024-apple-intelligence">Read on Substack</a>
+        <!-- WWDC 2024 Post -->
+        <div class="post-embed">
+           
+            <div class="substack-post-embed">
+                <p lang="en">From WWDC 2024, Apple Intelligence to the race of Open-Source model</p>
+                <p>Corenet is the keyword.</p>
+                <a data-post-link href="https://neuropurrfectai.substack.com/p/from-wwdc-2024-apple-intelligence">Read on Substack</a>
+            </div>
         </div>
     </div>
 </div>
