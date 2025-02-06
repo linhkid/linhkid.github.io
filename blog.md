@@ -4,61 +4,42 @@ title: Blog
 ---
 
 <style>
-.substack-container {
-    width: 100%;
-    max-width: 1200px;  /* Adjust as needed */
+.blog-container {
+    max-width: 1200px;
     margin: 0 auto;
+    padding: 20px;
+}
+
+.post-embed {
+    margin-bottom: 40px;
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.wrapper {
+    max-width: none !important;
+    width: 95% !important;
 }
 </style>
 
-<div class="substack-container">
-    <iframe 
-        src="https://neuropurrfectai.substack.com" 
-        width="100%" 
-        height="900px" 
-        style="border:none; background:white;" 
-        frameborder="0" 
-        scrolling="yes"
-    ></iframe>
+<div class="blog-container">
+    <!-- First Post -->
+    <div class="post-embed">
+        <div class="substack-post-embed">
+            <p lang="en">In-depth Papers Highlight 1st - 10th August by Linh Kid</p>
+            <p>KV-Cache Management is the way to optimize LLM, and better AI alignment with self-improving alignment with LLM-as-a-Meta-Judge... is two of our favorite publications this week.</p>
+            <a data-post-link href="https://neuropurrfectai.substack.com/p/in-depth-papers-highlight-1st-10th">Read on Substack</a>
+        </div>
+    </div>
+
+    <!-- Second Post -->
+    <div class="post-embed">
+        <!-- Add your next post embed code here -->
+    </div>
+
+    <!-- Add more posts as needed -->
 </div>
 
-<!-- ---
-layout: page
-title: Blog
-permalink: /blog/
----
-
-# Technical Writing & Articles
-
-## Featured Posts
-
-### Crafting Resilient AI
-- Hands-on workshop materials on AI safety
-- Practical implementation with Google's tools
-- [Read More](https://neuropurrfectai.substack.com/p/crafting-resilient-ai-a-hands-on)
-
-### AI Alignment Journey
-- Insights from AI Safety Fundamentals course
-- Discussion on misalignment and adversarial attacks
-- 131+ LinkedIn reactions
-- [Read More](https://neuropurrfectai.substack.com/p/navigating-the-complexities-of-ai)
-
-### Gemma: Making LLMs Accessible
-- Analysis of Google's open-source LLM
-- Technical deep-dive into small language models
-- 360+ LinkedIn reactions
-- [Read More](https://neuropurrfectai.substack.com/p/gemma-geminis-open-source-twin-and)
-
-## Technical Series
-
-### AI/ML Dictionary Series
-- Comprehensive guide to AI/ML terminology
-- Multi-part series for beginners to experts
-- 400+ views on Substack
-- [View Series](https://neuropurrfectai.substack.com/p/dictionary-of-basic-and-popular-terms)
-
-## Platform Statistics
-- LinkedIn: 374,362+ impressions, 6,406 followers
-- Substack: 8,300+ views, 196 subscribers
-- Beautiful Mind Vietnam: 200,000+ followers
- -->
+<script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
