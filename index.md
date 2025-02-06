@@ -2,9 +2,39 @@
 layout: home
 title: Nguyen Khanh Linh, Ms.
 ---
+<style>
+.wrapper {
+    max-width: none !important;
+    width: 95% !important;
+}
 
-<div markdown="1" style="display: flex; gap: 3rem; width: 100%; margin: 0 auto; padding: 0 1rem;">
+.page-content {
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0 !important;
+}
+
+.profile-img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.main-content {
+    flex: 1;
+    min-width: 0;
+    padding-right: 2rem;
+}
+
+.home {
+    width: 100% !important;
+    max-width: none !important;
+}
+</style>
+<div markdown="1" style="display: flex; gap: 3rem; width: 100%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
+!
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
@@ -15,7 +45,7 @@ title: Nguyen Khanh Linh, Ms.
 - 🎓 [Google Scholar](https://t.ly/71Qvo)
 </div>
 
-<div markdown="1" style="flex: 1; width: 1200px">
+<div markdown="1" style="flex: 1;">
 # About Me
 ### Top Artificial Intelligence (AI) Voice of LinkedIn '24
 
