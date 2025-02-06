@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Nguyen Khanh Linh, Ms.
+title: About Me
 ---
 <style>
 .wrapper {
@@ -15,7 +15,7 @@ title: Nguyen Khanh Linh, Ms.
 }
 
 .profile-img {
-    width: 100%;
+    width: 95%;
     max-width: 250px;
     border-radius: 50%;
     margin-bottom: 1rem;
@@ -32,9 +32,9 @@ title: Nguyen Khanh Linh, Ms.
     max-width: none !important;
 }
 </style>
-<div markdown="1" style="display: flex; gap: 3rem; width: 100%; margin: 0 auto;">
+<div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
-!
+
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
@@ -46,7 +46,7 @@ title: Nguyen Khanh Linh, Ms.
 </div>
 
 <div markdown="1" style="flex: 1;">
-# About Me
+# Linh (Kid) Nguyen, Ms.
 ### Top Artificial Intelligence (AI) Voice of LinkedIn '24
 
 With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
