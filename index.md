@@ -3,9 +3,8 @@ layout: home
 title: Nguyen Khanh Linh, Ms.
 ---
 
-<div markdown="1" style="display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto;">
-
-<div markdown="1" style="flex: 0 0 200px;">
+<div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto; padding: 0 1rem;">
+<div markdown="1" style="flex: 0 0 250px;">
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
@@ -18,7 +17,7 @@ title: Nguyen Khanh Linh, Ms.
 
 <div markdown="1" style="flex: 1;">
 # About Me
-## Top Artificial Intelligence (AI) Voice of LinkedIn '24
+### Top Artificial Intelligence (AI) Voice of LinkedIn '24
 
 With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
 
@@ -78,5 +77,22 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
     max-width: 250px;
     border-radius: 50%;
     margin-bottom: 1rem;
+}
+
+.container {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: none;
+}
+
+.main-content {
+    flex: 1;
+    min-width: 0;
+    padding-right: 2rem;
 }
 </style>
