@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Welcome to Linh's Portfolio
+title: Nguyen Khanh Linh, Ms.
 ---
 
 <div markdown="1" style="display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto;">
 
-<div markdown="1" style="flex: 0 0 300px;">
-![Khanh Linh Nguyen](/assets/img/IMG_5470.jpg){:.profile-img}
+<div markdown="1" style="flex: 0 0 200px;">
+![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
 - 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co)
@@ -17,7 +17,7 @@ title: Welcome to Linh's Portfolio
 </div>
 
 <div markdown="1" style="flex: 1;">
-# Nguyen Khanh Linh, Ms.
+# About Me
 ## Top Artificial Intelligence (AI) Voice of LinkedIn '24
 
 With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
@@ -69,8 +69,6 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
-
-[Speaking](/speaking) | [Projects](/projects) | [Blog](/blog)
 
 </div>
 
