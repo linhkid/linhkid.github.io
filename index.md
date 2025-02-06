@@ -60,7 +60,7 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 # Linh (Kid) Nguyen, Ms.
 #### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
-With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
+With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and experienced **Engineering Manager**, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I stay at the forefront of industry trends and advancements. Aside my main responsibility as **Head of AI @ Obello** (SF Bay Ara), currently I serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
 
 ## Key Skills
 - **Programming**: Python, MATLAB, Java, C/C++
@@ -68,8 +68,10 @@ With 13+ years of experience in **Natural Language Processing (NLP), Machine Lea
 - **Machine Learning**: Statistical modeling, probability theory, decision trees, ensemble methods, SVM, using frameworks like Keras, Gensim, scikit-learn, PyTorch, and TensorFlow
 - **Deep Learning**: RNN, LSTM, CNN, MemN2N, BERT, and other Transformer variations (e.g., BART, GPTs)
 - **MLOps & ML Platform**: End-to-end pipeline development with feature stores and serving pipelines using AWS SageMaker and Databricks in Datalake ecosystems
+- **Databases**: SQL (PostgreSQL, MySQL, MSSQL), NoSQL (MongoDB), big data frameworks (Hadoop,
+Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pinecone
 - **Optimization**: Expertise in mathematical optimization (convex/concave, linear problem, large-scale) and LLM optimization techniques (Unsloth, FlashAttention, PEFT, LoRA/QLoRA)
-- **LLM-RAG/Agentic LLMs Development**: Full end-to-end offline and cloud LLM-RAG development & deployment using Langchain, LlamaIndex, Haystack, and LocalAI
+- **LLM-RAG/Agentic LLMs Development**: Full end-to-end offline and cloud LLM-RAG development & deployment using Langchain, LlamaIndex, Haystack, and LocalAI/Ollama
 
 ## Current Positions
 
@@ -83,7 +85,7 @@ Leading AI initiatives for an AI graphic design platform that creates on-brand m
 
 Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.
 
-### Researcher at DataScience-Works lab, Australia
+### Lead Research Engineer at DataScienceWorks Research Lab, Australia
 *July 2023 – Present*
 
 Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.
