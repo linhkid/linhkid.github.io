@@ -3,71 +3,85 @@ layout: home
 title: Welcome to Linh's Portfolio
 ---
 
-<div class="grid grid-cols-4 gap-4">
-  <!-- Left Sidebar -->
-  <div class="col-span-1">
-    <img class="rounded-full w-48 h-48 object-cover mb-4" alt="Linh Nguyen" src="/assets/images/linh-profile.jpg" />
-    
-    ### Contact
-    - 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co)
-    - 🔗 [LinkedIn](https://linkedin.com/in/linhnguyenkhanh)
-    - 📝 [Technical Blog](https://neuropurrfectai.substack.com)
-    - 💻 [GitHub](https://github.com/linhkid)
-    - 🎓 [Google Scholar](https://t.ly/71Qvo)
-  </div>
+<div markdown="1" style="display: flex; gap: 2rem;">
 
-  <!-- Main Content -->
-  <div class="col-span-3">
-    # Nguyen Khanh Linh, Ms.
-    ## Top Artificial Intelligence (AI) Voice of LinkedIn '24
+<div markdown="1" style="flex: 0 0 300px;">
+![Khanh Linh Nguyen](/assets/images/linh-profile.jpg){:.profile-img}
 
-    With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
-
-    ## Key Skills
-    - **Programming**: Python, MATLAB, Java, C/C++
-    - **NLP**: Topic modeling, document summarization, extraction, categorization, sentiment analysis, dialogue systems, generation, and neural machine translation
-    - **Machine Learning**: Statistical modeling, probability theory, decision trees, ensemble methods, SVM, using frameworks like Keras, Gensim, scikit-learn, PyTorch, and TensorFlow
-    - **Deep Learning**: RNN, LSTM, CNN, MemN2N, BERT, and other Transformer variations (e.g., BART, GPTs)
-    - **MLOps & ML Platform**: End-to-end pipeline development with feature stores and serving pipelines using AWS SageMaker and Databricks in Datalake ecosystems
-    - **Optimization**: Expertise in mathematical optimization (convex/concave, linear problem, large-scale) and LLM optimization techniques (Unsloth, FlashAttention, PEFT, LoRA/QLoRA)
-    - **LLM-RAG/Agentic LLMs Development**: Full end-to-end offline and cloud LLM-RAG development & deployment using Langchain, LlamaIndex, Haystack, and LocalAI
-
-    ## Current Positions
-
-    ### Head of AI & ML at Obello, San Francisco Bay Area - Remote
-    *Aug 2024 – Present*
-    Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods.
-
-    ### Co-Founder & CTO at HeyJuni, Singapore - Remote
-    *July 2024 – Present*
-    Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.
-
-    ### Researcher at DataScience-Works lab, Australia
-    *July 2023 – Present*
-    Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.
-
-    ## Education
-
-    - **AI Safety Fundamentals**, BlueDot Impact (2024)
-      - *AI Alignment & Safety Certification*
-      - Developed "Pressure-sense" project investigating AI systems' responses
-    - **Georgia Institute of Technology** (2020 – 2021)
-      - *Postgrad – Computer Science*
-    - **National University of Singapore** (July 2015)
-      - *Master of Knowledge Engineering/AI Systems*
-      - Singapore Government Scholarship
-
-    ## Selected Publications
-    1. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/pii/S0950705123006512) - Knowledge-Based Systems Volume 279, 2023 (110901)
-    2. ["A survey on empathetic dialogue systems"](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303092) - Information Fusion (2020)
-    3. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
-    4. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
-  </div>
+### Contact
+- 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co)
+- 🔗 [LinkedIn](https://linkedin.com/in/linhnguyenkhanh)
+- 📝 [Technical Blog](https://neuropurrfectai.substack.com)
+- 💻 [GitHub](https://github.com/linhkid)
+- 🎓 [Google Scholar](https://t.ly/71Qvo)
 </div>
+
+<div markdown="1" style="flex: 1;">
+# Nguyen Khanh Linh, Ms.
+## Top Artificial Intelligence (AI) Voice of LinkedIn '24
+
+With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and Object-oriented programming, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a part-time **researcher** at *DataScience-Works* lab in Australia, I stay at the forefront of industry trends and advancements. Currently serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
+
+## Key Skills
+- **Programming**: Python, MATLAB, Java, C/C++
+- **NLP**: Topic modeling, document summarization, extraction, categorization, sentiment analysis, dialogue systems, generation, and neural machine translation
+- **Machine Learning**: Statistical modeling, probability theory, decision trees, ensemble methods, SVM, using frameworks like Keras, Gensim, scikit-learn, PyTorch, and TensorFlow
+- **Deep Learning**: RNN, LSTM, CNN, MemN2N, BERT, and other Transformer variations (e.g., BART, GPTs)
+- **MLOps & ML Platform**: End-to-end pipeline development with feature stores and serving pipelines using AWS SageMaker and Databricks in Datalake ecosystems
+- **Optimization**: Expertise in mathematical optimization (convex/concave, linear problem, large-scale) and LLM optimization techniques (Unsloth, FlashAttention, PEFT, LoRA/QLoRA)
+- **LLM-RAG/Agentic LLMs Development**: Full end-to-end offline and cloud LLM-RAG development & deployment using Langchain, LlamaIndex, Haystack, and LocalAI
+
+## Current Positions
+
+### Head of AI & ML at Obello, San Francisco Bay Area - Remote
+*Aug 2024 – Present*
+
+Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods.
+
+### Co-Founder & CTO at HeyJuni, Singapore - Remote
+*July 2024 – Present*
+
+Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.
+
+### Researcher at DataScience-Works lab, Australia
+*July 2023 – Present*
+
+Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.
+
+## Education
+
+- **AI Safety Fundamentals**, BlueDot Impact (2024)
+  - *AI Alignment & Safety Certification*
+  - Developed "Pressure-sense" project investigating AI systems' responses
+- **Georgia Institute of Technology** (2020 – 2021)
+  - *Postgrad – Computer Science*
+- **National University of Singapore** (July 2015)
+  - *Master of Knowledge Engineering/AI Systems*
+  - Singapore Government Scholarship
+
+## Selected Publications
+1. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006147) - Knowledge-Based Systems Volume 279, 2023 (110901)
+2. ["A survey on empathetic dialogue systems"](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303092) - Information Fusion (2020)
+3. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/peer-support-group.pdf) - Regional Conference of Psychology, Vietnam (2017)
+4. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/cyberbullying-effects.pdf) - Regional Conference of Psychology, Vietnam (2017)
+</div>
+
+</div>
+
+<div style="text-align: center; margin-top: 2rem;">
 
 [Speaking](/speaking) | [Projects](/projects) | [Blog](/blog)
 
--------------------
+</div>
+
+<style>
+.profile-img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+</style>
 
 [//]: # (---)
 
