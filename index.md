@@ -80,6 +80,51 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
     margin: 0.3rem 0 0.8rem 0;
 }
 
+.education-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+
+.school-logo {
+    width: 80px;  /* Fixed width container */
+    height: 80px; /* Fixed height container */
+    min-width: 80px; /* Prevent container from shrinking */
+    margin-right: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.school-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Maintain aspect ratio */
+}
+
+.education-content {
+    flex: 1;
+}
+
+.education-content strong {
+    color: #631919;
+    font-size: 1.1rem;
+}
+
+.education-date {
+    color: #666;
+    margin-left: 0.5rem;
+}
+
+.education-content ul {
+    margin: 0.5rem 0;
+    padding-left: 1.2rem;
+}
+
+.education-content li {
+    margin: 0.3rem 0;
+}
+
 </style>
 <div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
@@ -165,36 +210,42 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 ## Education
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/logo/bluedot.jpeg" alt="BlueDot Impact" style="height: 40px; margin-right: 1rem;">
-  <div>
-    <strong>AI Safety Fundamentals</strong>, BlueDot Impact (2024)
-    <ul style="margin: 0.5rem 0;">
-      <li><em>AI Alignment & Safety Certification</em></li>
-      <li>Developed "Pressure-sense" project investigating AI systems' responses under human's pressure</li>
-    </ul>
-  </div>
+<div class="education-item">
+    <div class="school-logo">
+        <img src="/assets/logo/bluedot.jpeg" alt="BlueDot Impact">
+    </div>
+    <div class="education-content">
+        <strong>AI Safety Fundamentals</strong><span class="education-date">BlueDot Impact (2024)</span>
+        <ul>
+            <li><em>AI Alignment & Safety Certification</em></li>
+            <li>Developed "Pressure-sense" project investigating AI systems' responses under human's pressure</li>
+        </ul>
+    </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/logo/gatech.png" alt="Georgia Tech" style="height: 40px; margin-right: 1rem;">
-  <div>
-    <strong>Georgia Institute of Technology</strong> (2020 – 2021)
-    <ul style="margin: 0.5rem 0;">
-      <li><em>Postgrad (dropped out) – Computer Science</em></li>
-    </ul>
-  </div>
+<div class="education-item">
+    <div class="school-logo">
+        <img src="/assets/logo/gatech.png" alt="Georgia Tech">
+    </div>
+    <div class="education-content">
+        <strong>Georgia Institute of Technology</strong><span class="education-date">(2020 – 2021)</span>
+        <ul>
+            <li><em>Postgrad (dropped out) – Computer Science</em></li>
+        </ul>
+    </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/logo/nus.png" alt="NUS" style="height: 40px; margin-right: 1rem;">
-  <div>
-    <strong>National University of Singapore</strong> (July 2015)
-    <ul style="margin: 0.5rem 0;">
-      <li><em>Master of Knowledge Engineering/AI Systems</em></li>
-      <li>Singapore Government Scholarship</li>
-    </ul>
-  </div>
+<div class="education-item">
+    <div class="school-logo">
+        <img src="/assets/logo/nus.png" alt="NUS">
+    </div>
+    <div class="education-content">
+        <strong>National University of Singapore</strong><span class="education-date">(July 2015)</span>
+        <ul>
+            <li><em>Master of Knowledge Engineering/AI Systems</em></li>
+            <li>Singapore Government Scholarship</li>
+        </ul>
+    </div>
 </div>
 
 ## Selected Publications
@@ -207,38 +258,46 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 ## Past Experience
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <img src="/assets/logo/tcb.jpg" alt="Techcombank" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  <div>
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/tcb.jpg" alt="Techcombank">
+  </div>
+  <div class="experience-content">
     <h3 style="margin: 0;">Senior Manager, Machine Learning Platform & AI Research Lead - Techcombank</h3>
-    <em>Oct 2022 – July 2024</em>
+    <div class="experience-date">Oct 2022 – July 2024</div>
     <p>Led development of bank-wide ML Ops & Feature Store platform, managing team of Senior Data Scientists & ML Engineers. Developed internal GPT chatbot, code generator, and neural machine translation model. Implemented Large-scale Graph Machine Learning for transaction networks and fraud detection.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <img src="/assets/logo/mediacorp.png" alt="Mediacorp" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  <div>
-    <h3 style="margin: 0;">Senior Manager - Mediacorp, Singapore</h3>
-    <em>Apr 2022 – Sep 2022</em>
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/mediacorp.png" alt="Mediacorp">
+  </div>
+  <div class="experience-content">
+    <h3>Senior Manager - Mediacorp, Singapore</h3>
+    <div class="experience-date">Apr 2022 – Sep 2022</div>
     <p>Led R&D projects on dialogue systems, grammar correction, topic modeling, sentiment analysis, and legal document summarization. Managed end-to-end development of NLP solutions.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <img src="/assets/logo/shopee.jpg" alt="Shopee" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  <div>
-    <h3 style="margin: 0;">Senior Data Scientist / Senior Algorithm Engineer - Shopee, Singapore</h3>
-    <em>Dec 2020 – Mar 2022</em>
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/shopee.jpg" alt="Shopee">
+  </div>
+  <div class="experience-content">
+    <h3>Senior Data Scientist / Senior Algorithm Engineer - Shopee, Singapore</h3>
+     <div class="experience-date">Dec 2020 – Mar 2022</div>
     <p>Developed Multilingual Neural Machine Translation for cross-border markets. Implemented and deployed large-scale, real-time NLP models for production. Led language-related technical initiatives across teams.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-  <img src="/assets/logo/contilogo.png" alt="Continental" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  <div>
-    <h3 style="margin: 0;">AI Specialist - AIR Labs, Continental Automotive, Singapore</h3>
-    <em>July 2018 – Dec 2020</em>
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/contilogo.png" alt="Continental">
+  </div>
+  <div class="experience-content">
+    <h3>AI Specialist - AIR Labs, Continental Automotive, Singapore</h3>
+    <div class="experience-date">July 2018 – Dec 2020</div>
     <p>Led and researched multiple AI initiatives including ContiTech Digital Assistant, Voice-based "Connie" Digital Sales Assistant, and AI for Software Engineering. Implemented cutting-edge NLP and speech recognition solutions.</p>
   </div>
 </div>
