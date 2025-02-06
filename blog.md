@@ -16,11 +16,13 @@ title: Blog
     gap: 30px;
 }
 
-/* Additional styles to ensure iframe visibility */
-.substack-post-embed iframe {
+/* Increased height for full preview visibility */
+.substack-embed {
     width: 100% !important;
-    min-height: 400px !important;
-    margin: 0 !important;
+    height: 600px !important; /* Increased from 320px to 600px */
+    border: 1px solid #EEE;
+    background: white;
+    margin-bottom: 20px;
 }
 
 @media (max-width: 768px) {
@@ -32,15 +34,14 @@ title: Blog
 
 <div class="blog-container">
     <div class="blog-grid">
-        <!-- Use the full iframe embed code from Substack for each post -->
-        <iframe src="https://neuropurrfectai.substack.com/embed/p/deepseek-r1-a-new-era-in-deep-thinking" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/deepseek-r1-a-new-era-in-deep-thinking" class="substack-embed" frameborder="0" scrolling="no"></iframe>
 
-        <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-1st-10th" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-1st-10th" class="substack-embed" frameborder="0" scrolling="no"></iframe>
 
-        <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-22nd-31st" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-22nd-31st" class="substack-embed" frameborder="0" scrolling="no"></iframe>
 
-        <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-8th-21th" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-8th-21th" class="substack-embed" frameborder="0" scrolling="no"></iframe>
 
-        <iframe src="https://neuropurrfectai.substack.com/embed/p/from-wwdc-2024-apple-intelligence" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/from-wwdc-2024-apple-intelligence" class="substack-embed" frameborder="0" scrolling="no"></iframe>
     </div>
 </div>
