@@ -3,10 +3,10 @@ layout: home
 title: Welcome to Linh's Portfolio
 ---
 
-<div markdown="1" style="display: flex; gap: 2rem;">
+<div markdown="1" style="display: flex; gap: 2rem; max-width: 1200px; margin: 0 auto;">
 
 <div markdown="1" style="flex: 0 0 300px;">
-![Khanh Linh Nguyen](/assets/images/linh-profile.jpg){:.profile-img}
+![Khanh Linh Nguyen](/assets/img/IMG_5470.jpg){:.profile-img}
 
 ### Contact
 - 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co)
@@ -52,18 +52,18 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
 
 - **AI Safety Fundamentals**, BlueDot Impact (2024)
   - *AI Alignment & Safety Certification*
-  - Developed "Pressure-sense" project investigating AI systems' responses
+  - Developed "Pressure-sense" project investigating AI systems' responses under human's pressure
 - **Georgia Institute of Technology** (2020 – 2021)
-  - *Postgrad – Computer Science*
+  - *Postgrad (dropped out)– Computer Science*
 - **National University of Singapore** (July 2015)
   - *Master of Knowledge Engineering/AI Systems*
   - Singapore Government Scholarship
 
 ## Selected Publications
-1. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/abs/pii/S0950705123006147) - Knowledge-Based Systems Volume 279, 2023 (110901)
+1. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/pii/S0950705123006512) - Knowledge-Based Systems Volume 279, 2023 (110901)
 2. ["A survey on empathetic dialogue systems"](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303092) - Information Fusion (2020)
-3. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/peer-support-group.pdf) - Regional Conference of Psychology, Vietnam (2017)
-4. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/cyberbullying-effects.pdf) - Regional Conference of Psychology, Vietnam (2017)
+3. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
+4. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
 </div>
 
 </div>
