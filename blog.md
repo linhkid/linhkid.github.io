@@ -12,8 +12,8 @@ title: Blog
 
 .blog-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
-    gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
 }
 
 .post-embed {
@@ -29,38 +29,20 @@ title: Blog
     box-shadow: 0 4px 8px rgba(0,0,0,0.15);
 }
 
-.post-image {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 4px;
-    margin-bottom: 15px;
-}
-
 .substack-post-embed p[lang="en"] {
     font-size: 1.1em;
     font-weight: 600;
     margin-bottom: 10px;
     color: #333;
-    /* Limit title to 2 lines */
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
 }
 
 .substack-post-embed p:not([lang="en"]) {
-    /* Limit description to 3 lines */
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
     color: #666;
+    margin-bottom: 15px;
 }
 
 .substack-post-embed a[data-post-link] {
     display: inline-block;
-    margin-top: 10px;
     padding: 8px 16px;
     background: #631919;
     color: white;
@@ -72,10 +54,9 @@ title: Blog
     background: #7d3f3f;
 }
 
-/* Responsive design */
 @media (max-width: 768px) {
     .blog-grid {
-        grid-template-columns: 1fr; /* Single column on mobile */
+        grid-template-columns: 1fr;
     }
 }
 </style>
@@ -84,7 +65,6 @@ title: Blog
     <div class="blog-grid">
         <!-- DeepSeek-R1 Post -->
         <div class="post-embed">
-          
             <div class="substack-post-embed">
                 <p lang="en">DeepSeek-R1: A New Era in Deep Thinking (including Mathematical reasoning) Through Reinforcement Learning</p>
                 <a data-post-link href="https://neuropurrfectai.substack.com/p/deepseek-r1-a-new-era-in-deep-thinking">Read on Substack</a>
@@ -93,7 +73,6 @@ title: Blog
 
         <!-- August 1-10 Papers -->
         <div class="post-embed">
-        
             <div class="substack-post-embed">
                 <p lang="en">In-depth Papers Highlight 1st - 10th August</p>
                 <p>KV-Cache Management is the way to optimize LLM, and better AI alignment with self-improving alignment with LLM-as-a-Meta-Judge... is two of our favorite publications this week.</p>
@@ -103,7 +82,6 @@ title: Blog
 
         <!-- July 22-31 Papers -->
         <div class="post-embed">
-            
             <div class="substack-post-embed">
                 <p lang="en">In-depth Papers Highlight 22nd - 31st July</p>
                 <p>July ends on a high-note with the comparison between RAG and long-context LLMs and guess what? RAG is not always better. ML-Mamba & Graph-Structured Speculative Decoding are also one of the highlights</p>
@@ -113,7 +91,6 @@ title: Blog
 
         <!-- July 8-21 Papers -->
         <div class="post-embed">
-           
             <div class="substack-post-embed">
                 <p lang="en">In-depth Papers Highlight 8th - 21st July</p>
                 <p>A Survey on LLM's efficient inference methods, accuracy is NOT all you need, and also how to detect hallucination in order to combat them... are the theme of these highlights.</p>
@@ -123,7 +100,6 @@ title: Blog
 
         <!-- WWDC 2024 Post -->
         <div class="post-embed">
-           
             <div class="substack-post-embed">
                 <p lang="en">From WWDC 2024, Apple Intelligence to the race of Open-Source model</p>
                 <p>Corenet is the keyword.</p>
