@@ -20,7 +20,7 @@ title: Blog
 .substack-embed {
     width: 100% !important;
     height: 600px !important; /* Increased from 320px to 600px */
-    border: 1px solid #EEE;
+    /*border: 1px solid #EEE;*/
     background: white;
     margin-bottom: 20px;
 }
@@ -36,12 +36,26 @@ title: Blog
     <div class="blog-grid">
         <iframe src="https://neuropurrfectai.substack.com/embed/p/deepseek-r1-a-new-era-in-deep-thinking" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/crafting-resilient-ai-a-hands-on" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/navigating-the-complexities-of-ai" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
         <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-1st-10th" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-22nd-31st" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/in-depth-papers-highlight-8th-21th" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/understanding-markov-decision-processes" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
         <iframe src="https://neuropurrfectai.substack.com/embed/p/from-wwdc-2024-apple-intelligence" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-e15" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-3c9" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-0ab" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
     </div>
 </div>
