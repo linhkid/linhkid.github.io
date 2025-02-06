@@ -49,7 +49,7 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
-- 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co) | [linhnguyen@u.nus.edu](mailto:linhnguyen@u.nus.edu)
+- 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co) /| [linhnguyen@u.nus.edu](mailto:linhnguyen@u.nus.edu)
 - 🔗 [LinkedIn](https://linkedin.com/in/linhnguyenkhanh)
 - 📝 [Technical Blog](https://neuropurrfectai.substack.com)
 - 💻 [GitHub](https://github.com/linhkid)
@@ -77,20 +77,55 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 ## Current Positions
 
-### Head of AI & ML at Obello, San Francisco Bay Area - Remote
-*Aug 2024 – Present*
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/obello.jpeg" alt="Obello" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Head of AI & ML at Obello, San Francisco Bay Area - Remote</h3>
+    <em>Aug 2024 – Present</em>
+    <p>Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
+    </div>
+</div>
 
-Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods.
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/hj.png" alt="HeyJuni" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Co-Founder & CTO at HeyJuni, Singapore - Remote</h3>
+    <em>July 2024 – Present</em>
+    <p>Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.</p>
+  </div>
+</div>
 
-### Co-Founder & CTO at HeyJuni, Singapore - Remote
-*July 2024 – Present*
+<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
+  <img src="/assets/logo/dswlogo.svg" alt="DataScienceWorks" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
+  <div>
+    <h3 style="margin: 0;">Lead Research Engineer at DataScienceWorks Research Lab, Australia</h3>
+    <em>July 2023 – Present</em>
+    <p>Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.</p>
+  </div>
+</div>
 
-Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.
+[//]: # (### Head of AI & ML at Obello, San Francisco Bay Area - Remote)
 
-### Lead Research Engineer at DataScienceWorks Research Lab, Australia
-*July 2023 – Present*
+[//]: # (*Aug 2024 – Present*)
 
-Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.
+[//]: # ()
+[//]: # (Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI research capabilities & products that can be considered as state-of-the-art in the industry.)
+
+[//]: # ()
+[//]: # (### Co-Founder & CTO at HeyJuni, Singapore - Remote)
+
+[//]: # (*July 2024 – Present*)
+
+[//]: # ()
+[//]: # (Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.)
+
+[//]: # ()
+[//]: # (### Lead Research Engineer at DataScienceWorks Research Lab, Australia)
+
+[//]: # (*July 2023 – Present*)
+
+[//]: # ()
+[//]: # (Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.)
 
 ## Education
 
@@ -110,13 +145,13 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
   <div>
     <strong>Georgia Institute of Technology</strong> (2020 – 2021)
     <ul style="margin: 0.5rem 0;">
-      <li><em>Postgrad (dropped out)– Computer Science</em></li>
+      <li><em>Postgrad (dropped out) – Computer Science</em></li>
     </ul>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1rem;">
-  <img src="/assets/logo/nus.jpg" alt="NUS" style="height: 40px; margin-right: 1rem;">
+  <img src="/assets/logo/nus.png" alt="NUS" style="height: 40px; margin-right: 1rem;">
   <div>
     <strong>National University of Singapore</strong> (July 2015)
     <ul style="margin: 0.5rem 0;">
