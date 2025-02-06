@@ -5,7 +5,7 @@ title: Blog
 
 <style>
 .blog-container {
-    max-width: 1400px;
+    max-width: 1700px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -25,7 +25,7 @@ title: Blog
     margin-bottom: 20px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
     .blog-grid {
         grid-template-columns: 1fr;
     }
