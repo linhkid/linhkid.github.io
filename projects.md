@@ -121,7 +121,7 @@ h3 { color: #7d3f3f; }
     <div class="project-header">
         <h3 class="project-title">ArXiv Digest Extra</h3>
     </div>
-    <img src="/assets/img/obello_banner.png" alt="Obello Banner">
+    <img src="/assets/img/arxiv.jpeg" alt="Obello Banner">
     <p>Forked and continued to developed an advanced paper recommendation system powered by large language models, running on Huggingface Spaces. The system processes ArXiv papers in real-time, providing personalized research recommendations based on user interests and reading history. Features include semantic search capabilities, citation network analysis, and automated paper summarization.</p>
     <div class="project-links">
        <a href="https://github.com/linhkid/ArxivDigest-extra">💻 GitHub</a>
@@ -145,7 +145,7 @@ h3 { color: #7d3f3f; }
     <div class="project-header">
         <h3 class="project-title">Beautiful Mind Vietnam</h3>
     </div>
-    <img src="/assets/img/NPA.png" alt="NeuroPurrfect AI">
+    <img src="/assets/img/bmvn.webp" alt="Beautiful Mind VN">
     <p>I founded Beautiful Mind Vietnam (BMVN) in 2015 and it is still currently Vietnam's first non-profit organization dedicated to mental health support, reaching over 200,000 followers across social media platforms. The organization provides free mental health services, including psychological first-aid and peer support, educational resources, and community support programs. We've also supported and even rescued more than 1000 anonymous people with mental health & abuse issues. Beautiful Mind Vietnam won <a href="http://2017.wechoice.vn/de-cu-hang-muc-doi-song-gioi-tre.htm"> 2017 WECHOICE AWARD </a> for its outstanding social impact, and also being featured on <a href="https://www.wannatalkaboutit.com/vn/">Netflix's resource page </a> for mental health. </p>
     <div class="project-links">
         <a href="https://beautifulmindvn.com/">🌐 Website</a>
