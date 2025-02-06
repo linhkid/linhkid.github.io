@@ -49,7 +49,7 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 ![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
 
 ### Contact
-- 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co)
+- 📧 [linh@neuropurrfectai.co](mailto:linh@neuropurrfectai.co) | [linhnguyen@u.nus.edu](mailto:linhnguyen@u.nus.edu)
 - 🔗 [LinkedIn](https://linkedin.com/in/linhnguyenkhanh)
 - 📝 [Technical Blog](https://neuropurrfectai.substack.com)
 - 💻 [GitHub](https://github.com/linhkid)
@@ -61,6 +61,8 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 #### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
 With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and experienced **Engineering Manager**, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I stay at the forefront of industry trends and advancements. Aside my main responsibility as **Head of AI @ Obello** (SF Bay Ara), currently I serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
+
+---
 
 ## Key Skills
 - **Programming**: Python, MATLAB, Java, C/C++
@@ -92,14 +94,37 @@ Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learni
 
 ## Education
 
-- **AI Safety Fundamentals**, BlueDot Impact (2024)
-  - *AI Alignment & Safety Certification*
-  - Developed "Pressure-sense" project investigating AI systems' responses under human's pressure
-- **Georgia Institute of Technology** (2020 – 2021)
-  - *Postgrad (dropped out)– Computer Science*
-- **National University of Singapore** (July 2015)
-  - *Master of Knowledge Engineering/AI Systems*
-  - Singapore Government Scholarship
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/assets/img/logos/bluedot.jpeg" alt="BlueDot Impact" style="height: 30px; margin-right: 1rem;">
+  <div>
+    <strong>AI Safety Fundamentals</strong>, BlueDot Impact (2024)
+    <ul style="margin: 0.5rem 0;">
+      <li><em>AI Alignment & Safety Certification</em></li>
+      <li>Developed "Pressure-sense" project investigating AI systems' responses under human's pressure</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/assets/img/logos/gatech.png" alt="Georgia Tech" style="height: 30px; margin-right: 1rem;">
+  <div>
+    <strong>Georgia Institute of Technology</strong> (2020 – 2021)
+    <ul style="margin: 0.5rem 0;">
+      <li><em>Postgrad (dropped out)– Computer Science</em></li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/assets/img/logos/nus.jpg" alt="NUS" style="height: 30px; margin-right: 1rem;">
+  <div>
+    <strong>National University of Singapore</strong> (July 2015)
+    <ul style="margin: 0.5rem 0;">
+      <li><em>Master of Knowledge Engineering/AI Systems</em></li>
+      <li>Singapore Government Scholarship</li>
+    </ul>
+  </div>
+</div>
 
 ## Selected Publications
 1. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/pii/S0950705123006512) - Knowledge-Based Systems Volume 279, 2023 (110901)
