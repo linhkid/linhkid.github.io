@@ -160,11 +160,9 @@ permalink: /speaking_teaching/
     <div class="event-meta">VinUniversity, Hanoi - June 2023</div>
     <img src="/assets/img/vinuni23.JPG" alt="Guest Lecture at VinUniversity" class="event-image">
     <div class="event-description">
-        Delivered a comprehensive guest lecture to Computer Science students at VinUniversity, Vietnam's premier private university, focusing on modern database architectures and big data practices. The session covered crucial topics including data modeling, distributed databases, and real-world applications of big data technologies.
+        <p>Delivered a comprehensive guest lecture to Computer Science students at VinUniversity, Vietnam's premier private university, focusing on modern database architectures and big data practices. The session covered crucial topics including data modeling, distributed databases, and real-world applications of big data technologies.</p>
 
-        The lecture combined theoretical foundations with practical insights, demonstrating how different database paradigms (SQL, NoSQL, Vector DBs) serve different business needs. Students learned about data warehousing, data lakes, and the emergence of data lakehouses, with special emphasis on scaling considerations and performance optimization. The session included interactive demonstrations of database design patterns and their applications in AI/ML pipelines.
-
-        A particular highlight was the discussion of real-world case studies from my experience at Techcombank and Shopee, showing how proper database architecture can support millions of daily transactions and enable advanced analytics. The lecture concluded with a Q&A session that sparked engaging discussions about career paths in data engineering and AI.
+        <p>The lecture combined theoretical foundations with practical insights, demonstrating how different database paradigms (SQL, NoSQL, Vector DBs) serve different business needs. Students learned about data warehousing, data lakes, and the emergence of data lakehouses, with special emphasis on scaling considerations and performance optimization. The session included interactive demonstrations of database design patterns and their applications in AI/ML pipelines.</p>
     </div>
     <div class="event-stats">
         <ul>
@@ -176,7 +174,23 @@ permalink: /speaking_teaching/
 </div>
 
 
+<div class="event-container">
+   <h3 class="event-title">Bridging the Gap between AI Research & Production</h3>
+   <div class="event-meta">Hanoi University of Science - March 2023</div>
+   <img src="/assets/img/hus23.JPG" alt="Guest Lecture at HUS" class="event-image">
+   <div class="event-description">
+       <p>Delivered an insightful lecture to Computer Science students at Hanoi University of Science about the challenges and solutions in transitioning AI models from research to production environments. Drawing from my experience at Techcombank, A*STAR and Shopee, demonstrated how theoretical AI concepts translate into real-world applications.</p>
 
+       <p>The session focused on practical MLOps practices, covering model deployment, monitoring, and maintenance in production environments. Students learned about the importance of scalability, reproducibility, and maintaining model performance in real-world conditions. Special emphasis was placed on the differences between academic metrics and business KPIs, and how to bridge this gap effectively.</p>
+   </div>
+   <div class="event-stats">
+       <ul>
+           <li>Audience: 80+ students and faculty members</li>
+           <li>Focus: Research Skills, MLOps, Production AI, Model Deployment</li>
+           <li>Interactive components: Live system architecture demos and Q&A</li>
+       </ul>
+   </div>
+</div>
 
 <div style="text-align: center; margin-top: 3rem;">
    <a href="/past-events" class="event-link">View More Past Events</a>
