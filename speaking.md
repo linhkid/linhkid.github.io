@@ -5,6 +5,22 @@ permalink: /speaking_teaching/
 ---
 
 <style>
+.event-stats {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #f8f8f8;
+    border-radius: 4px;
+}
+
+.event-stats ul {
+    margin: 0;
+    padding-left: 1.5rem;
+}
+
+.event-stats li {
+    margin-bottom: 0.5rem;
+    color: #555;
+}
 .event-links {
     display: flex;
     gap: 1rem;
@@ -68,8 +84,6 @@ permalink: /speaking_teaching/
 </style>
 
 # Speaking Engagements
-
-## Recent Events
 
 <div class="event-container">
    <h3 class="event-title">Leading AI: Collaboration meets Ethical Innovation</h3>
@@ -140,6 +154,26 @@ permalink: /speaking_teaching/
 </div>
 
 # Teachings
+
+<div class="event-container">
+    <h3 class="event-title">Database Concepts and Skills for Big Data</h3>
+    <div class="event-meta">VinUniversity, Hanoi - June 2023</div>
+    <img src="/assets/img/vinuni23.JPG" alt="Guest Lecture at VinUniversity" class="event-image">
+    <div class="event-description">
+        Delivered a comprehensive guest lecture to Computer Science students at VinUniversity, Vietnam's premier private university, focusing on modern database architectures and big data practices. The session covered crucial topics including data modeling, distributed databases, and real-world applications of big data technologies.
+
+        The lecture combined theoretical foundations with practical insights, demonstrating how different database paradigms (SQL, NoSQL, Vector DBs) serve different business needs. Students learned about data warehousing, data lakes, and the emergence of data lakehouses, with special emphasis on scaling considerations and performance optimization. The session included interactive demonstrations of database design patterns and their applications in AI/ML pipelines.
+
+        A particular highlight was the discussion of real-world case studies from my experience at Techcombank and Shopee, showing how proper database architecture can support millions of daily transactions and enable advanced analytics. The lecture concluded with a Q&A session that sparked engaging discussions about career paths in data engineering and AI.
+    </div>
+    <div class="event-stats">
+        <ul>
+            <li>Audience: 60+ undergraduate students and faculty members</li>
+            <li>Duration: 3-hour intensive session</li>
+            <li>Topics: Database Architecture, Big Data Systems, Data Modeling, MLOps Integration</li>
+        </ul>
+    </div>
+</div>
 
 
 
