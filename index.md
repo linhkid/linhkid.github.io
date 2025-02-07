@@ -173,6 +173,7 @@ That early exposure to AI's transformative potential set me on a path that would
 Today, as **Head of AI at Obello** in San Francisco Bay Area, I lead teams in developing cutting-edge AI solutions, bringing together my technical foundation with over 7 years of hands-on experience in **MLOps and software development cycles**. The journey from simple chatbots to complex, production-scale AI systems has taught me the importance of building solutions that are not just technically sophisticated, but also practical and impactful.
 
 Currently, I wear multiple hats that keep me at the forefront of AI innovation. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I push the boundaries of what's possible in AI research. I also serve as the **Google Developers Group's Ambassador** and provide strategic **advisory** to various C-level executives, helping bridge the gap between cutting-edge AI technology and practical business applications.
+
 ---
 
 ## Key Skills
@@ -190,7 +191,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 ## Current Positions
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-<a href="https://obello.com/" target="_blank">
+<a href="https://obello.com" target="_blank">
   <img src="/assets/logo/obello.jpeg" alt="Obello" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
   </a>
   <div>
@@ -201,7 +202,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
- <a href="https://heyjuni.com/" target="_blank">
+ <a href="https://heyjuni.com" target="_blank">
   <img src="/assets/logo/hj.png" alt="HeyJuni" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
   </a>
   <div>
@@ -213,7 +214,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
 
- <a href="https://www.datascience-works.com/" target="_blank">
+ <a href="https://www.datascience-works.com" target="_blank">
   <img src="/assets/logo/dswlogo.svg" alt="DataScienceWorks" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
   </a>
   <div>
