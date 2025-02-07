@@ -3,6 +3,48 @@ layout: home
 title: About Me
 ---
 <style>
+.position-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+}
+
+.company-logo {
+    width: 80px;  /* Fixed width container */
+    height: 80px; /* Fixed height container */
+    min-width: 80px; /* Prevent container from shrinking */
+    margin-right: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.company-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Maintain aspect ratio */
+}
+
+.position-content {
+    flex: 1;
+}
+
+.position-content h3 {
+    margin: 0;
+    color: #631919;
+}
+
+.position-date {
+    font-style: italic;
+    color: #666;
+    margin: 0.3rem 0 0.8rem 0;
+}
+
+.position-description {
+    margin: 0;
+    line-height: 1.6;
+}
+
 .wrapper {
     max-width: none !important;
     width: 95% !important;
@@ -168,11 +210,9 @@ My journey in technology has been a fascinating evolution spanning over 13 years
 
 This curiosity led me to explore Natural Language Processing, driven by a fundamental question: how do machines understand human language? The complexity of language – with its nuances, context, and cultural variations – presented a fascinating challenge that drew me deeper into AI research. This journey began in pure software engineering, but a pivotal internship at **IBM Singapore** in 2014 changed my trajectory forever. As a fresh NUS postgrad intern, I dove into the world of information extraction, NLP, and predictive modeling, watching in awe as innovations like IBM Watson built upon Deep Blue's legacy, showing how machines could not just calculate, but understand and communicate.
 
-That early exposure to AI's transformative potential set me on a path that would define my career. From building my first chatbot in 2010 with just n-grams and probability to developing sophisticated multilingual translation systems, each step has added new dimensions to my expertise. One of my proudest achievements was at Shopee, where I was in charge of the development and deployment of multilingual neural machine translation models that serves millions of customers across Asia and Latin America, breaking down language barriers in e-commerce. This system not only processed multiple languages but adapted to local dialects and shopping contexts, making cross-border commerce more accessible to people across the region.
+That early exposure to AI's transformative potential set me on a path that would define my career. From building my first chatbot in 2010 with just n-grams and probability to building GenAI applications at scale & at speed, each step has added new dimensions to my expertise. One of my proudest achievements was at Shopee, where I was in charge of the development and deployment of multilingual neural machine translation models that serves millions of customers across Asia and Latin America, breaking down language barriers in e-commerce.
 
-Today, as **Head of AI at Obello** in San Francisco Bay Area, I lead teams in developing cutting-edge AI solutions, bringing together my technical foundation with over 7 years of hands-on experience in **MLOps and software development cycles**. The journey from simple chatbots to complex, production-scale AI systems has taught me the importance of building solutions that are not just technically sophisticated, but also practical and impactful.
-
-Currently, I wear multiple hats that keep me at the forefront of AI innovation. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I push the boundaries of what's possible in AI research. I also serve as the **Google Developers Group's Ambassador** and provide strategic **advisory** to various C-level executives, helping bridge the gap between cutting-edge AI technology and practical business applications.
+Today, as **Head of AI at Obello** in San Francisco Bay Area, I lead teams in developing cutting-edge AI solutions, bringing together my technical foundation with over 7 years of hands-on experience in **MLOps and software development cycles**. The journey from simple chatbots to complex, production-scale AI systems has taught me the importance of building solutions that are not just technically sophisticated, but also practical and impactful. I also wear multiple hats that keep me at the forefront of AI innovation. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I push the boundaries of what's possible in AI research. I also serve as the **Google Developers Group's Ambassador** and provide strategic **advisory** to various C-level executives, helping bridge the gap between cutting-edge AI technology and practical business applications.
 
 ---
 
@@ -190,38 +230,43 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 ## Current Positions
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-<a href="https://obello.com" target="_blank">
-  <img src="/assets/logo/obello.jpeg" alt="Obello" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  </a>
-  <div>
-    <h3 style="margin: 0;">Head of AI & ML at Obello, San Francisco Bay Area</h3>
-    <em>Aug 2024 – Present (Remote)</em>
-    <p>Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
+<div class="position-item">
+    <div class="company-logo">
+        <a href="https://obello.com" target="_blank">
+            <img src="/assets/logo/obello.jpeg" alt="Obello">
+        </a>
+    </div>
+    <div class="position-content">
+        <h3>Head of AI & ML at Obello, San Francisco Bay Area</h3>
+        <div class="position-date">Aug 2024 – Present (Remote)</div>
+        <p class="position-description">Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
     </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
- <a href="https://heyjuni.com" target="_blank">
-  <img src="/assets/logo/hj.png" alt="HeyJuni" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  </a>
-  <div>
-    <h3 style="margin: 0;">Co-Founder & CTO at HeyJuni, Singapore</h3>
-    <em>July 2024 – Present</em>
-    <p>Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.</p>
-  </div>
+<div class="position-item">
+    <div class="company-logo">
+        <a href="https://heyjuni.com" target="_blank">
+            <img src="/assets/logo/hj.png" alt="HeyJuni">
+        </a>
+    </div>
+    <div class="position-content">
+        <h3>Co-Founder & CTO at HeyJuni, Singapore</h3>
+        <div class="position-date">July 2024 – Present</div>
+        <p class="position-description">Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.</p>
+    </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.5rem;">
-
- <a href="https://www.datascience-works.com" target="_blank">
-  <img src="/assets/logo/dswlogo.svg" alt="DataScienceWorks" style="height: 40px; margin-right: 1rem; margin-top: 5px;">
-  </a>
-  <div>
-    <h3 style="margin: 0;">Lead Research Engineer at DataScienceWorks Research Lab, Australia</h3>
-    <em>July 2023 – Present</em>
-    <p>Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.</p>
-  </div>
+<div class="position-item">
+    <div class="company-logo">
+        <a href="https://www.datascience-works.com" target="_blank">
+            <img src="/assets/logo/dswlogo.svg" alt="DataScienceWorks">
+        </a>
+    </div>
+    <div class="position-content">
+        <h3>Lead Research Engineer at DataScienceWorks Research Lab, Australia</h3>
+        <div class="position-date">July 2023 – Present</div>
+        <p class="position-description">Focus on cutting-edge research with Prof. Nayyar Zaidi's group in Machine Learning Optimization, Data Synthesization, and NLP.</p>
+    </div>
 </div>
 
 ## Education
