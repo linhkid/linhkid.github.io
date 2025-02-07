@@ -46,7 +46,7 @@ permalink: /speaking_teaching/
 
 .event-image {
    width: 100%;
-   max-height: 300px;
+   max-height: 500px;
    object-fit: cover;
    border-radius: 8px;
    margin-bottom: 1rem;
