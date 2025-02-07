@@ -164,7 +164,17 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 # Linh (Kid) Nguyen, Ms.
 #### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
-With 13+ years of experience in **Natural Language Processing (NLP), Machine Learning (ML), Data Science**, and experienced **Engineering Manager**, I bring a strong foundation to any project. My expertise extends to **MLOps**, and **software development cycle** with over 5 years of hands-on experience. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I stay at the forefront of industry trends and advancements. Aside my main responsibility as **Head of AI @ Obello** (SF Bay Ara), currently I serve as **Google Developers Group's Ambassador** and **advisor** to various C-levels of organizations.
+My journey in technology has been a fascinating evolution spanning over 13 years, shaped by a deep passion for **Natural Language Processing (NLP), Machine Learning (ML), and Data Science**. It all started with my childhood fascination with IBM's Deep Blue – the first computer to defeat a world chess champion. I was captivated by how a machine could understand complex strategies and make decisions that could challenge the greatest minds in chess. This early wonder sparked a burning question that would define my career: how could machines understand and interact with human intelligence?
+
+This curiosity led me to explore Natural Language Processing, driven by a fundamental question: how do machines understand human language? The complexity of language – with its nuances, context, and cultural variations – presented a fascinating challenge that drew me deeper into AI research. This journey began in pure software engineering, but a pivotal internship at **IBM Singapore** in 2014 changed my trajectory forever. As a fresh NUS postgrad intern, I dove into the world of information extraction, NLP, and predictive modeling, watching in awe as innovations like IBM Watson built upon Deep Blue's legacy, showing how machines could not just calculate, but understand and communicate.
+
+That early exposure to AI's transformative potential set me on a path that would define my career. From building my first chatbot in 2010 with just n-grams and probability to developing sophisticated multilingual translation systems, each step has added new dimensions to my expertise. One of my proudest achievements was at Shopee, where I was in charge of the development and deployment of multilingual neural machine translation models that serves millions of customers across Asia and Latin America, breaking down language barriers in e-commerce. This system not only processed multiple languages but adapted to local dialects and shopping contexts, making cross-border commerce more accessible to people across the region.
+
+Today, as **Head of AI at Obello** in San Francisco Bay Area, I lead teams in developing cutting-edge AI solutions, bringing together my technical foundation with over 7 years of hands-on experience in **MLOps and software development cycles**. The journey from simple chatbots to complex, production-scale AI systems has taught me the importance of building solutions that are not just technically sophisticated, but also practical and impactful.
+
+Currently, I wear multiple hats that keep me at the forefront of AI innovation. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I push the boundaries of what's possible in AI research. I also serve as the **Google Developers Group's Ambassador** and provide strategic **advisory** to various C-level executives, helping bridge the gap between cutting-edge AI technology and practical business applications.
+
+This journey has taught me that AI is not just about algorithms and models – it's about creating solutions that make a real difference. From that wide-eyed child amazed by Deep Blue, to the intern fascinated by IBM Watson, to leading AI teams today, every step has reinforced my commitment to responsible and innovative AI development. The same wonder that captivated me watching Deep Blue play chess now drives me to create AI solutions that enhance human capabilities and make technology more accessible to everyone.
 
 ---
 
@@ -176,8 +186,9 @@ With 13+ years of experience in **Natural Language Processing (NLP), Machine Lea
 - **MLOps & ML Platform**: End-to-end pipeline development with feature stores and serving pipelines using AWS SageMaker and Databricks in Datalake ecosystems
 - **Databases**: SQL (PostgreSQL, MySQL, MSSQL), NoSQL (MongoDB), big data frameworks (Hadoop,
 Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pinecone
-- **Optimization**: Expertise in mathematical optimization (convex/concave, linear problem, large-scale) and LLM optimization techniques (Unsloth, FlashAttention, PEFT, LoRA/QLoRA)
+- **Optimization**: Expertise in mathematical optimization (convex/concave, linear problem, large-scale) and LLM optimization techniques (Unsloth, FlashAttention, PEFT, LoRA/QLoRA, Knowledge Distillation & Transfer Learning)
 - **LLM-RAG/Agentic LLMs Development**: Full end-to-end offline and cloud LLM-RAG development & deployment using Langchain, LlamaIndex, Haystack, and LocalAI/Ollama
+- **Other GenAI Applications’ Development & Deployment**: Graphic Design and Layout generation & evaluation, multilingual Text-to-SQL, and context-switching dialogue systems with Graph Neural Network.
 
 ## Current Positions
 
@@ -212,7 +223,9 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 <div class="education-item">
     <div class="school-logo">
+    <a href="https://aisafetyfundamentals.com" target="_blank">
         <img src="/assets/logo/bluedot.jpeg" alt="BlueDot Impact">
+        </a>
     </div>
     <div class="education-content">
         <strong>AI Safety Fundamentals</strong><span class="education-date">BlueDot Impact (2024)</span>
@@ -225,7 +238,9 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 <div class="education-item">
     <div class="school-logo">
+    <a href="https://www.gatech.edu" target="_blank">
         <img src="/assets/logo/gatech.png" alt="Georgia Tech">
+      </a>
     </div>
     <div class="education-content">
         <strong>Georgia Institute of Technology</strong><span class="education-date">(2020 – 2021)</span>
@@ -237,7 +252,8 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 <div class="education-item">
     <div class="school-logo">
-        <img src="/assets/logo/nus.png" alt="NUS">
+    <a href="https://www.nus.edu.sg" target="_blank">
+        <img src="/assets/logo/nus.png" alt="NUS"></a>
     </div>
     <div class="education-content">
         <strong>National University of Singapore</strong><span class="education-date">(July 2015)</span>

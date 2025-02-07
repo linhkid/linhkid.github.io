@@ -63,8 +63,6 @@ h1, h2 { color: #631919; }
 h3 { color: #7d3f3f; }
 </style>
 
-# Projects 
-
 ## Technical Projects
 
 <div class="project-card">
@@ -121,7 +119,7 @@ h3 { color: #7d3f3f; }
     <div class="project-header">
         <h3 class="project-title">ArXiv Digest Extra</h3>
     </div>
-    <img src="/assets/img/arxiv.jpeg" alt="Obello Banner">
+    <img src="/assets/img/arxiv.jpeg" alt="ArXiv">
     <p>Forked and continued to developed an advanced paper recommendation system powered by large language models, running on Huggingface Spaces. The system processes ArXiv papers in real-time, providing personalized research recommendations based on user interests and reading history. Features include semantic search capabilities, citation network analysis, and automated paper summarization.</p>
     <div class="project-links">
        <a href="https://github.com/linhkid/ArxivDigest-extra">💻 GitHub</a>
