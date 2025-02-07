@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Speaking
-permalink: /speaking/
+title: Speaking & Teachings
+permalink: /speaking_teaching/
 ---
 
 <style>
@@ -138,6 +138,10 @@ permalink: /speaking/
         <a href="https://tinyurl.com/y5r4nrk2" class="event-link" target="_blank">Special Seminar Recording</a>
     </div>
 </div>
+
+# Teachings
+
+
 
 
 <div style="text-align: center; margin-top: 3rem;">
