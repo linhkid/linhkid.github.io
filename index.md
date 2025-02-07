@@ -171,7 +171,7 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 <div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
 
-![Khanh Linh Nguyen](/assets/img/IMG_5470.jpeg){:.profile-img}
+![Khanh Linh Nguyen](/assets/img/IMG_0113.jpeg){:.profile-img}
 
 ### Contact
 
@@ -208,7 +208,7 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 
 My journey in technology has been a fascinating evolution spanning over 13 years, shaped by a deep passion for **Natural Language Processing (NLP), Machine Learning (ML), and Data Science**. It all started with my childhood fascination with IBM's Deep Blue – the first computer to defeat a world chess champion. I was captivated by how a machine could understand complex strategies and make decisions that could challenge the greatest minds in chess. This early wonder sparked a burning question that would define my career: how could machines understand and interact with human intelligence?
 
-The complexity of language – with its nuances, context, and cultural variations – presented a fascinating challenge that drew me deeper into AI research. This journey began in pure software engineering, but a pivotal internship at **IBM Singapore** in 2014 changed my trajectory forever. As a fresh NUS postgrad intern, I dove into the world of information extraction, NLP, and predictive modeling, watching in awe as innovations like IBM Watson built upon Deep Blue's legacy, showing how machines could not just calculate, but understand and communicate.
+The complexity of language – with its nuances, context, and cultural variations – presented a fascinating challenge that drew me deeper into AI research. This journey began in pure data mining, but a pivotal internship at **IBM Singapore** in 2014 changed my trajectory forever. As a fresh NUS postgrad intern, I dove into the world of information extraction, NLP, and predictive modeling, watching in awe as innovations like IBM Watson built upon Deep Blue's legacy, showing how machines could not just calculate, but understand and communicate.
 
 That early exposure to AI's transformative potential set me on a path that would define my career. From building my first chatbot in 2010 with just n-grams and probability to building **GenAI applications** at scale & at speed, each step has added new dimensions to my expertise. One of my proudest achievements was at Shopee, where I was in charge of the development and deployment of multilingual neural machine translation models that serves millions of customers across Asia and Latin America, breaking down language barriers in e-commerce.
 
