@@ -4,6 +4,21 @@ title: Blog
 ---
 
 <style>
+.linkedin-post-container {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+/* Make it responsive */
+@media (max-width: 520px) {
+    .linkedin-post-container iframe {
+        width: 100%;
+        height: 600px;
+    }
+}
+
 .blog-container {
     max-width: 1700px;
     margin: 0 auto;
@@ -53,6 +68,23 @@ title: Blog
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-e15" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-3c9" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+ <div class="post-embed">
+    <div class="substack-post-embed">
+        <p lang="en">RAG-KG for Customer Service: LinkedIn's Latest Innovation</p>
+        <div class="linkedin-post-container">
+            <iframe 
+                src="https://www.linkedin.com/embed/feed/update/urn:li:share:7190992877517262849" 
+                height="857" 
+                width="504" 
+                frameborder="0" 
+                allowfullscreen="" 
+                title="Embedded LinkedIn post">
+            </iframe>
+        </div>
+        <a data-post-link href="https://www.linkedin.com/posts/linhnguyenkhanh_knowledgegraph-ragllm-genai-activity-7190992877517262849-FF2U/">Read Full Analysis</a>
+    </div>
+</div>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-0ab" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
