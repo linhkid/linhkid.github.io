@@ -4,17 +4,66 @@ title: Blog
 ---
 
 <style>
+/* Override Jekyll's default container width */
+.wrapper {
+    max-width: none !important;
+    width: 95% !important;
+    margin: 0 auto !important;
+    padding: 0 30px !important;
+}
+
+/* Ensure content spans full width */
+.page-content .wrapper {
+    max-width: none !important;
+    width: 95% !important;
+}
+
+/* Adjust main content area */
+.post-content {
+    width: 100% !important;
+    max-width: none !important;
+}
+
+/* Keep the header and footer from being too wide */
+.site-header .wrapper,
+.site-footer .wrapper {
+    max-width: 1600px !important;  /* or any comfortable max-width */
+    margin: 0 auto !important;
+}
+
+/* Adjust grid layout */
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    width: 100%;
+}
+
+/* Ensure blog posts take full width in their grid cells */
+.post-embed {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .wrapper {
+        padding: 0 15px !important;
+    }
+    
+    .blog-grid {
+        grid-template-columns: 1fr;
+    }
+}
 .blog-container {
     max-width: 1700px;
     margin: 0 auto;
     padding: 20px;
 }
 
-.blog-grid {
+/* .blog-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
-}
+} */
 
 /* Increased height for full preview visibility */
 .substack-embed {
