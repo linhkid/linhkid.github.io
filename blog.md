@@ -54,7 +54,7 @@ title: Blog
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-3c9" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
-        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7190992874476331008" height="1236" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+        <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7190992874476331008" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-0ab" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
