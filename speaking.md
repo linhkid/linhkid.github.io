@@ -98,7 +98,7 @@ permalink: /speaking_teaching/
 <div class="event-container">
    <h3 class="event-title">Google DevFest Events 2024</h3>
    <div class="event-meta">GDG Hanoi & GDG MienTrung - November/December 2024</div>
-   <img src="/assets/img/devfest24_mt.JPG" alt="DevFest 2024 Workshop" class="event-image">
+   <img src="/assets/img/resilientai24.jpeg" alt="DevFest 2024 Workshop" class="event-image">
    <div class="event-description">
        Conducted an intensive workshop on "Crafting Resilient AI: Attacks, Defenses, and Alignment" across multiple DevFest events. Using hands-on demonstrations with Keras, TensorFlow, and the new Gemma models, participants learned practical approaches to building robust AI systems. The workshops attracted over 250 developers and researchers, fostering dynamic discussions about AI safety and responsible development practices.
    </div>
@@ -131,7 +131,7 @@ permalink: /speaking_teaching/
 <div class="event-container">
    <h3 class="event-title">International Women's Day Hanoi 2024</h3>
    <div class="event-meta">GDG Hanoi & Women Techmakers Hanoi - March 2024</div>
-   <img src="/assets/img/wtm24.webp" alt="International Women's Day Event" class="event-image">
+   <img src="/assets/img/wtm24.jpeg" alt="International Women's Day Event" class="event-image">
    <div class="event-description">
        Participated in a thought-provoking panel discussion about women in technology, sharing insights from my journey in AI and Machine Learning. The intimate gathering of 40 attendees created an environment for meaningful conversations about diversity in tech, career growth, and the future of Cloud and AI technologies. The discussion particularly focused on mentorship and creating supportive networks for women in technical roles.
    </div>
