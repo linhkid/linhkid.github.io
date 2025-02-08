@@ -11,7 +11,10 @@ permalink: /speaking_teaching/
     background: #f8f8f8;
     border-radius: 4px;
 }
-
+.event-container img[src*="resilientai24"] {
+    height: 900px !important;
+    object-fit: cover;
+}
 .event-stats ul {
     margin: 0;
     padding-left: 1.5rem;
