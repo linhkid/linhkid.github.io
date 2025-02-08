@@ -117,5 +117,8 @@ title: Blog
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms-0ab" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/dictionary-of-basic-and-popular-terms" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
+        <iframe src="https://topdev.vn/blog/nen-tang-machine-learning-on-premise" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+        
     </div>
 </div>
