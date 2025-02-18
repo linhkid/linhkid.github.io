@@ -147,7 +147,7 @@ h3 { color: #7d3f3f; }
     <p>I founded Beautiful Mind Vietnam (BMVN) in 2015 and it is still currently Vietnam's first non-profit organization dedicated to mental health support, reaching over 200,000 followers across social media platforms. The organization provides free mental health services, including psychological first-aid and peer support, educational resources, and community support programs. We've also supported and even rescued more than 1000 anonymous people with mental health & abuse issues. Beautiful Mind Vietnam won <a href="http://2017.wechoice.vn/de-cu-hang-muc-doi-song-gioi-tre.htm"> 2017 WECHOICE AWARD </a> for its outstanding social impact, and also being featured on <a href="https://www.wannatalkaboutit.com/vn/">Netflix's resource page </a> for mental health. </p>
     <div class="project-links">
         <a href="https://beautifulmindvn.com/">🌐 Website</a>
-        <a href="https://www.facebook.com/beautifulmindvn">🌐 Facebook Page</a>
+        <a href="https://www.facebook.com/bemind.bmvn">🌐 Facebook Page</a>
     </div>
 </div>
 
