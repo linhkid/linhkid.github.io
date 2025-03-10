@@ -204,6 +204,9 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 
 <div markdown="1" style="flex: 1;">
 # Linh (Kid) Nguyen, Ms.
+
+#### *Google Developer Expert (GDE) in AI/ML, first female GDE AI/ML in Vietnam*
+
 #### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
 My journey in technology has been a fascinating evolution spanning over 13 years, shaped by a deep passion for **Natural Language Processing (NLP), Machine Learning (ML), and Data Science**. It all started with my childhood fascination with IBM's Deep Blue – the first computer to defeat a world chess champion. I was captivated by how a machine could understand complex strategies and make decisions that could challenge the greatest minds in chess. This early wonder sparked a burning question that would define my career: *how could machines understand and interact with human intelligence?*
@@ -240,19 +243,6 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
         <h3>Head of AI & ML at Obello, San Francisco Bay Area</h3>
         <div class="position-date">Aug 2024 – Present (Remote)</div>
         <p class="position-description">Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
-    </div>
-</div>
-
-<div class="position-item">
-    <div class="company-logo">
-        <a href="https://heyjuni.com" target="_blank">
-            <img src="/assets/logo/hj.png" alt="HeyJuni">
-        </a>
-    </div>
-    <div class="position-content">
-        <h3>Co-Founder & CTO at HeyJuni, Singapore</h3>
-        <div class="position-date">July 2024 – Present</div>
-        <p class="position-description">Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.</p>
     </div>
 </div>
 
@@ -323,6 +313,17 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 ---
 
 ## Past Experience
+
+<div class="experience-item">
+<div class="logo-container">
+  <img src="/assets/logo/hj.png" alt="HeyJuni">
+  </div>
+  <div class="experience-content">
+    <h3 style="margin: 0;">Co-Founder & CTO at HeyJuni, Singapore</h3>
+    <div class="experience-date">July 2024 – Feb 2025</div>
+    <p>Developing cutting-edge digital platforms and tools for mental health support, leveraging advanced AI capabilities.</p>
+  </div>
+</div>
 
 <div class="experience-item">
 <div class="logo-container">
