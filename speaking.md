@@ -91,6 +91,18 @@ permalink: /speaking_teaching/
 # Speaking Engagements
 
 <div class="event-container">
+   <h3 class="event-title">AI Alignment and Safety: Steering AI Towards Human Values</h3>
+   <div class="event-meta">AI Ethics in Action - Balancing Creativity & Responsibility, GDGoC Hackathon Vietnam 2025 - March 2025</div>
+   <img src="/assets/img/speakgdgoc25.png" alt="GDGoC Hackathon Vietnam 2025" class="event-image">
+   <div class="event-description">
+       In the context where AI is exploding and infiltrating every aspect of life, questions about ethical responsibility have become more urgent than ever. At GDG Hackathon Vietnam 2025, the workshop 'AI Ethics in Action - Balancing Creativity & Responsibility' brought sharp and practical perspectives on ethical responsibility in AI, helping young developers find the right direction when applying this technology.
+   </div>
+   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7259213003554750464/" class="event-link" target="_blank">Live Video</a>
+   <a href="https://docs.google.com/presentation/d/1gJB7jp2rN3e518ZIhOq_FixNm2fllyQcP8c5v7hoGtE/edit?usp=sharing" class="event-link" target="_blank">Full Slide</a>
+   
+</div>
+
+<div class="event-container">
    <h3 class="event-title">Leading AI: Collaboration meets Ethical Innovation</h3>
    <div class="event-meta">The AI Alliance, IBM and NUS - November 2024</div>
    <img src="/assets/img/ibm24.jpeg" alt="IBM AI Panel Discussion" class="event-image">
