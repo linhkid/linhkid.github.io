@@ -2,7 +2,8 @@
 layout: page
 title: Projects
 ---
-
+<script data-goatcounter="https://linhkid.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <style>
 .project-card {
     border: 1px solid #e1e4e8;

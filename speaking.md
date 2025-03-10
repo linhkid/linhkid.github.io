@@ -4,6 +4,8 @@ title: Speaking & Teachings
 permalink: /speaking_teaching/
 ---
 
+<script data-goatcounter="https://linhkid.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 <style>
 .event-stats {
     margin-top: 1rem;

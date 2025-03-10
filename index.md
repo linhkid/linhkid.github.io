@@ -168,6 +168,10 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 }
 
 </style>
+
+<script data-goatcounter="https://linhkid.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+    
 <div markdown="1" style="display: flex; gap: 3rem; width: 95%; margin: 0 auto;">
 <div markdown="1" style="flex: 0 0 250px;">
 

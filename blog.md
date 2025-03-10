@@ -88,6 +88,9 @@ title: Blog
 } */
 </style>
 
+<script data-goatcounter="https://linhkid.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+        
 <div class="blog-container">
     <div class="blog-grid">
 
