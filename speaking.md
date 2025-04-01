@@ -97,7 +97,7 @@ permalink: /speaking_teaching/
    <div class="event-description">
        In the context where AI is exploding and infiltrating every aspect of life, questions about ethical responsibility have become more urgent than ever. At GDG Hackathon Vietnam 2025, the workshop 'AI Ethics in Action - Balancing Creativity & Responsibility' brought sharp and practical perspectives on ethical responsibility in AI, helping young developers find the right direction when applying this technology.
    </div>
-   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7259213003554750464/" class="event-link" target="_blank">Live Video</a>
+   <a href="https://www.facebook.com/share/p/192eh51fLX/" class="event-link" target="_blank">Event Details</a>
    <a href="https://docs.google.com/presentation/d/1gJB7jp2rN3e518ZIhOq_FixNm2fllyQcP8c5v7hoGtE/edit?usp=sharing" class="event-link" target="_blank">Full Slide</a>
    
 </div>
