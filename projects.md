@@ -118,10 +118,12 @@ h3 { color: #7d3f3f; }
 
 <div class="project-card">
     <div class="project-header">
-        <h3 class="project-title">ArXiv Digest Extra</h3>
+        <h3 class="project-title">ArXiv Digest Extra - Version 2</h3>
     </div>
-    <img src="/assets/img/arxiv.jpeg" alt="ArXiv">
-    <p>Forked and continued to developed an advanced paper recommendation system powered by large language models, running on Huggingface Spaces. The system processes ArXiv papers in real-time, providing personalized research recommendations based on user interests and reading history. Features include semantic search capabilities, citation network analysis, and automated paper summarization.</p>
+    <img src="/assets/img/main_banner.png" alt="ArXiv">
+    <p>Personalized arXiv Paper Recommendations with Multiple AI Models
+
+This repository provides an enhanced daily digest for newly published arXiv papers based on your research interests, leveraging multiple AI models including OpenAI GPT, Google Gemini, and Anthropic Claude to provide relevancy ratings, detailed analysis, and topic clustering.</p>
     <div class="project-links">
        <a href="https://github.com/linhkid/ArxivDigest-extra">💻 GitHub</a>
        <a href="https://huggingface.co/spaces/linhkid91/ArxivDigest-extra">🤗 Huggingface Space</a>
