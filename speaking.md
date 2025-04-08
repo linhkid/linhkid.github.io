@@ -91,6 +91,20 @@ permalink: /speaking_teaching/
 # Speaking Engagements
 
 <div class="event-container">
+   <h3 class="event-title">Build With AI - GDG Cloud Hanoi & HCM 2025 </h3>
+   <div class="event-meta">Workshop - Search Tool & Function calling with Gemini 2.0 - April 2025</div>
+   <img src="/assets/img/bwai25hn.JPG" alt="Build With AI 2025" class="event-image">
+   <div class="event-description">
+Search Tool & Function calling with Gemini 2.0: Codelab and Introduction
+
+This workshop provides hands-on experience with Gemini 2.0, Google's latest multimodal AI tools. Learn to build applications that seamlessly integrate text, images, video, and audio. The participants learned how to apply these technologies to real-world business challenges.
+</div>
+   <a href="https://gdg.community.dev/events/details/google-gdg-cloud-hanoi-presents-build-with-ai-cloud-hanoi-2025/" class="event-link" target="_blank">Event Details</a>
+   <a href="https://github.com/linhkid/gdg-codelab-25/blob/main/slides/Linh%20-%20Gemini%202.0%20as%20Search%20Tool%20-%20Build%20With%20AI%202025%20.pdf" class="event-link" target="_blank">Full Slide</a>
+
+</div>
+
+<div class="event-container">
    <h3 class="event-title">AI Alignment and Safety: Steering AI Towards Human Values</h3>
    <div class="event-meta">AI Ethics in Action - Balancing Creativity & Responsibility, GDGoC Hackathon Vietnam 2025 - March 2025</div>
    <img src="/assets/img/speakgdgoc25.png" alt="GDGoC Hackathon Vietnam 2025" class="event-image">
