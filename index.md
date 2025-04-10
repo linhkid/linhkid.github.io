@@ -245,8 +245,8 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
     </div>
     <div class="position-content">
         <h3>Head of AI & ML at Obello, San Francisco Bay Area</h3>
-        <div class="position-date">Aug 2024 – Present (Remote)</div>
-        <p class="position-description">Leading AI initiatives for an AI graphic design platform that creates on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
+        <div class="position-date">Aug 2024 – Present</div>
+        <p class="position-description">Leading AI initiatives for an AI graphic design platform that automates the process of creating on-brand marketing content 10 times faster than traditional methods, and building core AI capabilities & products that can be considered as state-of-the-art in the industry.</p>
     </div>
 </div>
 
