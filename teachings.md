@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Speaking
-permalink: /speaking/
+title: Teachings & Conferences
+permalink: /teachings_conferences/
 ---
 
 <script data-goatcounter="https://linhkid.goatcounter.com/count"
@@ -88,7 +88,46 @@ permalink: /speaking/
 }
 </style>
 
-# Speaking Engagements
+# Teachings
+
+<div class="event-container">
+    <h3 class="event-title">Database Concepts and Skills for Big Data</h3>
+    <div class="event-meta">VinUniversity, Hanoi - June 2023</div>
+    <img src="/assets/img/vinuni23.JPG" alt="Guest Lecture at VinUniversity" class="event-image">
+    <div class="event-description">
+        <p>Delivered a comprehensive guest lecture to Computer Science students at VinUniversity, Vietnam's premier private university, focusing on modern database architectures and big data practices. The session covered crucial topics including data modeling, distributed databases, and real-world applications of big data technologies.</p>
+
+        <p>The lecture combined theoretical foundations with practical insights, demonstrating how different database paradigms (SQL, NoSQL, Vector DBs) serve different business needs. Students learned about data warehousing, data lakes, and the emergence of data lakehouses, with special emphasis on scaling considerations and performance optimization. The session included interactive demonstrations of database design patterns and their applications in AI/ML pipelines.</p>
+    </div>
+    <div class="event-stats">
+        <ul>
+            <li>Audience: 60+ undergraduate students and faculty members</li>
+            <li>Duration: 3-hour intensive session</li>
+            <li>Topics: Database Architecture, Big Data Systems, Data Modeling, MLOps Integration</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="event-container">
+   <h3 class="event-title">Bridging the Gap between AI Research & Production</h3>
+   <div class="event-meta">Hanoi University of Science - March 2023</div>
+   <img src="/assets/img/hus23.JPG" alt="Guest Lecture at HUS" class="event-image">
+   <div class="event-description">
+       <p>Delivered an insightful lecture to Computer Science students at Hanoi University of Science about the challenges and solutions in transitioning AI models from research to production environments. Drawing from my experience at Techcombank, A*STAR and Shopee, demonstrated how theoretical AI concepts translate into real-world applications.</p>
+
+       <p>The session focused on practical MLOps practices, covering model deployment, monitoring, and maintenance in production environments. Students learned about the importance of scalability, reproducibility, and maintaining model performance in real-world conditions. Special emphasis was placed on the differences between academic metrics and business KPIs, and how to bridge this gap effectively.</p>
+   </div>
+   <div class="event-stats">
+       <ul>
+           <li>Audience: 80+ students and faculty members</li>
+           <li>Focus: Research Skills, MLOps, Production AI, Model Deployment</li>
+           <li>Interactive components: Live system architecture demos and Q&A</li>
+       </ul>
+   </div>
+</div>
+
+# Conferences
 
 <div class="event-container">
    <h3 class="event-title">Build With AI - GDG Cloud Hanoi & HCM 2025 </h3>
@@ -157,8 +196,6 @@ This workshop provides hands-on experience with Gemini 2.0, Google's latest mult
    <a href="https://tinyurl.com/4y9f3zhr" class="event-link" target="_blank">Event Highlights</a>
 </div>
 
-
-
 <div class="event-container">
    <h3 class="event-title">International Women's Day Hanoi 2024</h3>
    <div class="event-meta">GDG Hanoi & Women Techmakers Hanoi - March 2024</div>
@@ -184,46 +221,6 @@ This workshop provides hands-on experience with Gemini 2.0, Google's latest mult
     </div>
 </div>
 
-# Teachings
-
-<div class="event-container">
-    <h3 class="event-title">Database Concepts and Skills for Big Data</h3>
-    <div class="event-meta">VinUniversity, Hanoi - June 2023</div>
-    <img src="/assets/img/vinuni23.JPG" alt="Guest Lecture at VinUniversity" class="event-image">
-    <div class="event-description">
-        <p>Delivered a comprehensive guest lecture to Computer Science students at VinUniversity, Vietnam's premier private university, focusing on modern database architectures and big data practices. The session covered crucial topics including data modeling, distributed databases, and real-world applications of big data technologies.</p>
-
-        <p>The lecture combined theoretical foundations with practical insights, demonstrating how different database paradigms (SQL, NoSQL, Vector DBs) serve different business needs. Students learned about data warehousing, data lakes, and the emergence of data lakehouses, with special emphasis on scaling considerations and performance optimization. The session included interactive demonstrations of database design patterns and their applications in AI/ML pipelines.</p>
-    </div>
-    <div class="event-stats">
-        <ul>
-            <li>Audience: 60+ undergraduate students and faculty members</li>
-            <li>Duration: 3-hour intensive session</li>
-            <li>Topics: Database Architecture, Big Data Systems, Data Modeling, MLOps Integration</li>
-        </ul>
-    </div>
-</div>
-
-
-<div class="event-container">
-   <h3 class="event-title">Bridging the Gap between AI Research & Production</h3>
-   <div class="event-meta">Hanoi University of Science - March 2023</div>
-   <img src="/assets/img/hus23.JPG" alt="Guest Lecture at HUS" class="event-image">
-   <div class="event-description">
-       <p>Delivered an insightful lecture to Computer Science students at Hanoi University of Science about the challenges and solutions in transitioning AI models from research to production environments. Drawing from my experience at Techcombank, A*STAR and Shopee, demonstrated how theoretical AI concepts translate into real-world applications.</p>
-
-       <p>The session focused on practical MLOps practices, covering model deployment, monitoring, and maintenance in production environments. Students learned about the importance of scalability, reproducibility, and maintaining model performance in real-world conditions. Special emphasis was placed on the differences between academic metrics and business KPIs, and how to bridge this gap effectively.</p>
-   </div>
-   <div class="event-stats">
-       <ul>
-           <li>Audience: 80+ students and faculty members</li>
-           <li>Focus: Research Skills, MLOps, Production AI, Model Deployment</li>
-           <li>Interactive components: Live system architecture demos and Q&A</li>
-       </ul>
-   </div>
-</div>
-
 <div style="text-align: center; margin-top: 3rem;">
    <a href="/past-events" class="event-link">View More Past Events</a>
 </div>
-

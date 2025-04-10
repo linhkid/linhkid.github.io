@@ -401,7 +401,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 </div>
 
 <div style="text-align: center; margin-top: 2rem;">
-
+<a href="/assets/Linh_CV_tex25.pdf" class="event-link" style="background: #631919; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; display: inline-block; margin: 0 10px;">Download CV</a>
 </div>
 
 <style>
