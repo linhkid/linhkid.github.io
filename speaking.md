@@ -99,8 +99,8 @@ About the Codelab: "Build your first multi-agent AI research with Gemma 2.0" </b
 
 During this codelab, attendees will have the opportunity to:</br>
 👉🏻 Learn the concept, operating principles, and application potential of AI systems with multiple interacting agents.</br>
-👉🏻 Practice with hashtag#Gemma2.0: Receive guidance on using Google's new generation large language model, Gemma 2.0, as a foundation for building hashtag#AIAgent.</br>
-👉🏻 Build a Research Agent: Engage in a step-by-step construction of a basic multi hashtag#AIAgent system capable of supporting research tasks, information gathering, and analysis.</br>
+👉🏻 Practice with Gemma 2.0: Receive guidance on using Google's new generation large language model, Gemma 2.0, as a foundation for building AI Agents.</br>
+👉🏻 Build a Research Agent: Engage in a step-by-step construction of a basic multi AI Agent system capable of supporting research tasks, information gathering, and analysis.</br>
 👉🏻 Explore Practical Applications: Discuss how to expand and apply multi-agent architecture to solve complex problems in academic and business environments, such as process automation, in-depth data analysis, and operational optimization.</br></div>
    <a href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-build-with-ai-hanoi-2025/" class="event-link" target="_blank">Event Details</a>
    <a href="https://github.com/linhkid/gdg-codelab-25/tree/main/multiagent" class="event-link" target="_blank">Github Repo</a>
