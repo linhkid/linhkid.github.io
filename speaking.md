@@ -95,17 +95,17 @@ permalink: /speaking/
    <div class="event-meta">Workshop - Build your first multi-agent AI research with Gemma 2.0 - April 2025</div>
    <img src="/assets/img/bwa_25_multiagent.jpeg" alt="Build With AI GDG Hanoi 2025" class="event-image">
    <div class="event-description">
-<p>About the Codelab: "Build your first multi-agent AI research with Gemma 2.0" </p>
 
-<p>During this codelab, attendees will have the opportunity to:
+<p>During this codelab, attendees will have the opportunity to:</p>
+<p></p>
 
-👉🏻 Learn the concept, operating principles, and application potential of AI systems with multiple interacting agents.
+<p>👉🏻 Learn the concept, operating principles, and application potential of AI systems with multiple interacting agents.</p>
 
-👉🏻 Practice with Gemma 2.0: Receive guidance on using Google's new generation large language model, Gemma 2.0, as a foundation for building AI Agents.
+<p>👉🏻 Practice with Gemma 2.0: Receive guidance on using Google's new generation large language model, Gemma 2.0, as a foundation for building AI Agents.</p>
 
-👉🏻 Build a Research Agent: Engage in a step-by-step construction of a basic multi AI Agent system capable of supporting research tasks, information gathering, and analysis.
+<p>👉🏻 Build a Research Agent: Engage in a step-by-step construction of a basic multi AI Agent system capable of supporting research tasks, information gathering, and analysis.</p>
 
-👉🏻 Explore Practical Applications: Discuss how to expand and apply multi-agent architecture to solve complex problems in academic and business environments, such as process automation, in-depth data analysis, and operational optimization.</p></div>
+<p>👉🏻 Explore Practical Applications: Discuss how to expand and apply multi-agent architecture to solve complex problems in academic and business environments, such as process automation, in-depth data analysis, and operational optimization.</p></div>
    <a href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-build-with-ai-hanoi-2025/" class="event-link" target="_blank">Event Details</a>
    <a href="https://github.com/linhkid/gdg-codelab-25/tree/main/multiagent" class="event-link" target="_blank">Github Repo</a>
 
