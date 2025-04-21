@@ -92,16 +92,16 @@ permalink: /speaking/
 
 <div class="event-container">
    <h3 class="event-title">Build With AI - GDG Hanoi 2025 </h3>
-   <div class="event-meta">Workshop - 𝐁𝐮𝐢𝐥𝐝 𝐲𝐨𝐮𝐫 𝐟𝐢𝐫𝐬𝐭 𝐦𝐮𝐥𝐭𝐢-𝐚𝐠𝐞𝐧𝐭 𝐀𝐈 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐰𝐢𝐭𝐡 𝐆𝐞𝐦𝐦𝐚 2.0 - April 2025</div>
+   <div class="event-meta">Workshop - Build your first multi-agent AI research with Gemma 2.0 - April 2025</div>
    <img src="/assets/img/bwa_25_multiagent.jpeg" alt="Build With AI GDG Hanoi 2025" class="event-image">
    <div class="event-description">
-𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐂𝐨𝐝𝐞𝐥𝐚𝐛: “𝐁𝐮𝐢𝐥𝐝 𝐲𝐨𝐮𝐫 𝐟𝐢𝐫𝐬𝐭 𝐦𝐮𝐥𝐭𝐢-𝐚𝐠𝐞𝐧𝐭 𝐀𝐈 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐰𝐢𝐭𝐡 𝐆𝐞𝐦𝐦𝐚 2.0
+About the Codelab: "Build your first multi-agent AI research with Gemma 2.0" </br></br>
 
-During this codelab, attendees will have the opportunity to:
-👉🏻 Learn the concept, operating principles, and application potential of AI systems with multiple interacting agents.
-👉🏻 Practice with hashtag#Gemma2.0: Receive guidance on using Google's new generation large language model, Gemma 2.0, as a foundation for building hashtag#AIAgent.
-👉🏻 Build a Research Agent: Engage in a step-by-step construction of a basic multi hashtag#AIAgent system capable of supporting research tasks, information gathering, and analysis.
-👉🏻 Explore Practical Applications: Discuss how to expand and apply multi-agent architecture to solve complex problems in academic and business environments, such as process automation, in-depth data analysis, and operational optimization.</div>
+During this codelab, attendees will have the opportunity to:</br>
+👉🏻 Learn the concept, operating principles, and application potential of AI systems with multiple interacting agents.</br>
+👉🏻 Practice with hashtag#Gemma2.0: Receive guidance on using Google's new generation large language model, Gemma 2.0, as a foundation for building hashtag#AIAgent.</br>
+👉🏻 Build a Research Agent: Engage in a step-by-step construction of a basic multi hashtag#AIAgent system capable of supporting research tasks, information gathering, and analysis.</br>
+👉🏻 Explore Practical Applications: Discuss how to expand and apply multi-agent architecture to solve complex problems in academic and business environments, such as process automation, in-depth data analysis, and operational optimization.</br></div>
    <a href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-build-with-ai-hanoi-2025/" class="event-link" target="_blank">Event Details</a>
    <a href="https://github.com/linhkid/gdg-codelab-25/tree/main/multiagent" class="event-link" target="_blank">Github Repo</a>
 
