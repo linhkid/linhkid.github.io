@@ -314,6 +314,14 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 3. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
 4. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
 
+## Awards & Recognition
+- **Gen.T Leader of Tomorrow 2025 | Technology Category** - Recognized as one of the Tatler Gen.T Leaders of Tomorrow 2025, an esteemed recognition that celebrates the most dynamic and impactful young leaders driving positive change across Vietnam and Asia (2025)
+- **Google Developer Expert (GDE) in AI/ML** - First female GDE AI/ML in Vietnam (2025)
+- **Top Artificial Intelligence (AI) Voice of LinkedIn** (2024)
+- **Finalist, ISS-MAS Data Visualization Hackathon** - Monetary Authority of Singapore & NUS (2015)
+- **Singapore Government Scholarship** - National University of Singapore (2015)
+- **Third place, ASEAN IT Competition skills** (2007)
+
 ---
 
 ## Past Experience
