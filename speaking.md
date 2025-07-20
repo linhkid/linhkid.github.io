@@ -91,6 +91,21 @@ permalink: /speaking/
 # Speaking Engagements
 
 <div class="event-container">
+   <h3 class="event-title">TECH-FEST 2025 - AI Agents & Computer Vision</h3>
+   <div class="event-meta">TECH-FEST 2025 - AI Agents & Computer Vision: When Machines Think and See - FPT University Talk - Jul 2025</div>
+   <img src="/assets/img/linh_fpt_jul1.jpg" alt="TECH-FEST 2025" class="event-image">
+   <div class="event-description">
+      As part of TECH-FEST 2025, this talkshow offers a comprehensive perspective on the development of Artificial Intelligence. From the cognitive and decision-making abilities of AI Agents to how Computer Vision enables machines to "see" and "understand" the visual world, the talkshow will provide essential knowledge, practical learning and career guidance, along with an overarching message: applying AI in a creative, humane, and responsible manner.
+
+This is an event where the audiences not only update themselves with the latest AI knowledge but also get inspired by the very individuals who have, are, and will continue to elevate Vietnamese intelligence on the global stage.
+
+
+   </div>
+   <a href="https://www.facebook.com/TechFest2025" class="event-link" target="_blank">Event Details</a>
+   
+</div>
+
+<div class="event-container">
    <h3 class="event-title">Build With AI - GDG Hanoi 2025 </h3>
    <div class="event-meta">Workshop - Build your first multi-agent AI research with Gemma 2.0 - April 2025</div>
    <img src="/assets/img/bwa_25_multiagent.jpeg" alt="Build With AI GDG Hanoi 2025" class="event-image">
