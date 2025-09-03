@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaking
+title: Speaking & Workshops
 permalink: /speaking/
 ---
 
@@ -88,7 +88,7 @@ permalink: /speaking/
 }
 </style>
 
-# Speaking Engagements
+# Speaking Engagements & Workshops
 
 <div class="event-container">
    <h3 class="event-title">Google for Startups Vietnam 2025 - AI Bootcamp</h3>
@@ -98,6 +98,18 @@ permalink: /speaking/
        Led an intensive mentoring session at the Google for Startups AI Bootcamp, guiding participants through practical approaches to rapidly prototype and deploy AI solutions. The session provided hands-on perspectives on leveraging Vertex AI Studio and Model Garden with pre-trained models to jumpstart AI projects, demonstrating how startups can accelerate their AI adoption journey.
 
        Participants gained practical experience with Google's enterprise AI platform, learning key concepts, tools, and best practices for integrating AI into their startup products. The interactive format included hands-on exercises with real-world scenarios and comprehensive Q&A sessions, enabling founders and technical teams to overcome common barriers in AI implementation.
+   </div>
+   <a href="https://rsvp.withgoogle.com/events/google-for-startups-ai-bootcamp/google-for-startups-ai-bootcamp-vn" class="event-link" target="_blank">Event Details</a>
+</div>
+
+<div class="event-container">
+   <h3 class="event-title">Google for Startups Vietnam 2025 - AI Bootcamp (Hands-on Workshop)</h3>
+   <div class="event-meta">Workshop - Mastering MLOps: Building, Deploying, and Managing AI at Scale on Google Cloud - August 2025</div>
+   <img src="/assets/img/gfs_day2.jpg" alt="Google for Startups AI Bootcamp Workshop" class="event-image">
+   <div class="event-description">
+       Facilitated an intensive hands-on workshop at the Google for Startups AI Bootcamp, diving deep into the practical implementation of MLOps principles on Google Cloud. The session equipped startup teams with essential skills for building production-ready AI systems at scale.
+
+       Participants gained hands-on experience with core MLOps principles including CI/CD for machine learning, automated pipelines using Vertex AI Pipelines, model registry, versioning strategies, and comprehensive monitoring for both models and agents. The workshop emphasized governance best practices, ensuring participants could build reliable, scalable, and maintainable AI systems that meet enterprise standards while maintaining agility for rapid iteration and deployment.
    </div>
    <a href="https://rsvp.withgoogle.com/events/google-for-startups-ai-bootcamp/google-for-startups-ai-bootcamp-vn" class="event-link" target="_blank">Event Details</a>
 </div>
