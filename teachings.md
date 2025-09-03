@@ -107,6 +107,24 @@ I had the privilege of presenting on stage at AISC 2025 before a sizable audienc
 # Teachings
 
 <div class="event-container">
+    <h3 class="event-title">From Curiosity to Contribution: Your Journey in the Age of Intelligent Machines</h3>
+    <div class="event-meta">VinUniversity, Hanoi - April 2025</div>
+    <img src="/assets/img/IMG_6302.jpg" alt="Guest Lecture at VinUniversity" class="event-image">
+    <div class="event-description">
+        <p>Delivered a comprehensive 2-hour guest lecture in Professor Wray Buntine's AI course, exploring the intersection of technical excellence and ethical responsibility in AI development. The session covered practical pathways for students to contribute meaningfully to the open-source AI ecosystem while maintaining ethical standards and responsible practices.</p>
+        
+        <p>The lecture introduced fundamental concepts of AI Alignment and Safety, demonstrating how emerging engineers can balance innovation with societal responsibility in their contributions to the AI community. Students engaged in discussions about the evolving landscape of AI development, the importance of open-source contributions, and strategies for building ethically-conscious AI systems that align with human values.</p>
+    </div>
+    <div class="event-stats">
+        <ul>
+            <li>Audience: Computer Science and AI students</li>
+            <li>Duration: 2-hour intensive session</li>
+            <li>Topics: Open-Source AI Engineering, AI Ethics & Responsibility, AI Alignment and Safety</li>
+        </ul>
+    </div>
+</div>
+
+<div class="event-container">
     <h3 class="event-title">Database Concepts and Skills for Big Data</h3>
     <div class="event-meta">VinUniversity, Hanoi - June 2023</div>
     <img src="/assets/img/vinuni23.JPG" alt="Guest Lecture at VinUniversity" class="event-image">
