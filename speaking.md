@@ -91,6 +91,18 @@ permalink: /speaking/
 # Speaking Engagements
 
 <div class="event-container">
+   <h3 class="event-title">Google for Startups Vietnam 2025 - AI Bootcamp</h3>
+   <div class="event-meta">Mentoring Session - Fastest way to get started with AI: Vertex AI Studio & Model Garden - August 2025</div>
+   <img src="/assets/img/gfs_day1.png" alt="Google for Startups AI Bootcamp" class="event-image">
+   <div class="event-description">
+       Led an intensive mentoring session at the Google for Startups AI Bootcamp, guiding participants through practical approaches to rapidly prototype and deploy AI solutions. The session provided hands-on perspectives on leveraging Vertex AI Studio and Model Garden with pre-trained models to jumpstart AI projects, demonstrating how startups can accelerate their AI adoption journey.
+
+       Participants gained practical experience with Google's enterprise AI platform, learning key concepts, tools, and best practices for integrating AI into their startup products. The interactive format included hands-on exercises with real-world scenarios and comprehensive Q&A sessions, enabling founders and technical teams to overcome common barriers in AI implementation.
+   </div>
+   <a href="https://rsvp.withgoogle.com/events/google-for-startups-ai-bootcamp/google-for-startups-ai-bootcamp-vn" class="event-link" target="_blank">Event Details</a>
+</div>
+
+<div class="event-container">
    <h3 class="event-title">TECH-FEST 2025 - AI Agents & Computer Vision</h3>
    <div class="event-meta">TECH-FEST 2025 - AI Agents & Computer Vision: When Machines Think and See - FPT University Talk - Jul 2025</div>
    <img src="/assets/img/linh_fpt_jul1.jpg" alt="TECH-FEST 2025" class="event-image">
@@ -139,6 +151,7 @@ This workshop provides hands-on experience with Gemini 2.0, Google's latest mult
    <a href="https://github.com/linhkid/gdg-codelab-25/blob/main/slides/Linh%20-%20Gemini%202.0%20as%20Search%20Tool%20-%20Build%20With%20AI%202025%20.pdf" class="event-link" target="_blank">Full Slide</a>
 
 </div>
+
 
 <div class="event-container">
    <h3 class="event-title">AI Alignment and Safety: Steering AI Towards Human Values</h3>
