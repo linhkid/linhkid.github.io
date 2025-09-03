@@ -167,6 +167,44 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
     margin: 0.3rem 0;
 }
 
+.intro-summary {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
+.read-more-btn {
+    background: none;
+    border: none;
+    color: #631919;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: color 0.2s ease;
+}
+
+.read-more-btn:hover {
+    color: #7d3f3f;
+}
+
+.btn-arrow {
+    font-size: 0.8rem;
+    transition: transform 0.2s ease;
+}
+
+.intro-full {
+    margin-top: 1rem;
+    line-height: 1.6;
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
 </style>
 
 <script data-goatcounter="https://linhkid.goatcounter.com/count"
@@ -213,13 +251,41 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 
 #### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
-My journey in technology has been a fascinating evolution spanning over 13 years, shaped by a deep passion for **Natural Language Processing (NLP), Machine Learning (ML), and Data Science**. It all started with my childhood fascination with IBM's Deep Blue – the first computer to defeat a world chess champion. I was captivated by how a machine could understand complex strategies and make decisions that could challenge the greatest minds in chess. This early wonder sparked a burning question that would define my career: *how could machines understand and interact with human intelligence?*
+<div class="intro-summary">
+My journey in technology has been a fascinating evolution spanning over 13 years, shaped by a deep passion for <strong>Natural Language Processing (NLP), Machine Learning (ML), and Data Science</strong>. It all started with my childhood fascination with IBM's Deep Blue – the first computer to defeat a world chess champion. I was captivated by how a machine could understand complex strategies and make decisions that could challenge the greatest minds in chess. This early wonder sparked a burning question that would define my career: <em>how could machines understand and interact with human intelligence?</em>
+</div>
 
-The complexity of language – with its nuances, context, and cultural variations – presented a fascinating challenge that drew me deeper into AI research. This journey began in pure data mining, but a pivotal internship at **IBM** in 2014 changed my trajectory forever. As a fresh NUS postgrad intern, I dove into the world of information extraction, NLP, and predictive modeling, watching in awe as innovations like **IBM Watson** built upon Deep Blue's legacy, showing how machines could not just calculate, but understand and communicate.
+<button class="read-more-btn" onclick="toggleIntro()">
+  <span class="btn-text">Read more</span>
+  <span class="btn-arrow">▼</span>
+</button>
 
-That early exposure to AI's transformative potential set me on a path that would define my career. From building my first chatbot in 2010 with just n-grams and probability to building **GenAI applications** at scale & at speed, each step has added new dimensions to my expertise. One of my proudest achievements was at Shopee, where I was in charge of the development and deployment of multilingual neural machine translation models that serves millions of customers across Asia and Latin America, breaking down language barriers in e-commerce.
+<div class="intro-full" style="display: none;">
+<p>The complexity of language – with its nuances, context, and cultural variations – presented a fascinating challenge that drew me deeper into AI research. This journey began in pure data mining, but a pivotal internship at <strong>IBM</strong> in 2014 changed my trajectory forever. As a fresh NUS postgrad intern, I dove into the world of information extraction, NLP, and predictive modeling, watching in awe as innovations like <strong>IBM Watson</strong> built upon Deep Blue's legacy, showing how machines could not just calculate, but understand and communicate.</p>
 
-Today, as **Head of AI at Obello** in San Francisco Bay Area, I lead teams in developing cutting-edge AI solutions, bringing together my technical foundation with over 7 years of hands-on experience in **MLOps and software development cycles**. The journey from simple chatbots to complex, production-scale AI systems has taught me the importance of building solutions that are not just technically sophisticated, but also practical and impactful. I also wear multiple hats that keep me at the forefront of AI innovation. As a **Lead Research Engineer** at *DataScienceWorks Research Lab* in Australia, I push the boundaries of what's possible in AI research. I'm also the first appointed female **Google Developer Expert (GDE) in AI/ML** in Vietnam, joining a global network of more than 1,000 technical leaders and experts worlwide, and provide strategic **advisory** to various C-level executives, helping bridge the gap between cutting-edge AI technology and practical business applications.
+<p>That early exposure to AI's transformative potential set me on a path that would define my career. From building my first chatbot in 2010 with just n-grams and probability to building <strong>GenAI applications</strong> at scale & at speed, each step has added new dimensions to my expertise. One of my proudest achievements was at Shopee, where I was in charge of the development and deployment of multilingual neural machine translation models that serves millions of customers across Asia and Latin America, breaking down language barriers in e-commerce.</p>
+
+<p>Today, as <strong>Head of AI at Obello</strong> in San Francisco Bay Area, I lead teams in developing cutting-edge AI solutions, bringing together my technical foundation with over 7 years of hands-on experience in <strong>MLOps and software development cycles</strong>. The journey from simple chatbots to complex, production-scale AI systems has taught me the importance of building solutions that are not just technically sophisticated, but also practical and impactful. I also wear multiple hats that keep me at the forefront of AI innovation. As a <strong>Lead Research Engineer</strong> at <em>DataScienceWorks Research Lab</em> in Australia, I push the boundaries of what's possible in AI research. I'm also the first appointed female <strong>Google Developer Expert (GDE) in AI/ML</strong> in Vietnam, joining a global network of more than 1,000 technical leaders and experts worldwide, and provide strategic <strong>advisory</strong> to various C-level executives, helping bridge the gap between cutting-edge AI technology and practical business applications.</p>
+</div>
+
+<script>
+function toggleIntro() {
+  const fullIntro = document.querySelector('.intro-full');
+  const btn = document.querySelector('.read-more-btn');
+  const btnText = btn.querySelector('.btn-text');
+  const btnArrow = btn.querySelector('.btn-arrow');
+  
+  if (fullIntro.style.display === 'none') {
+    fullIntro.style.display = 'block';
+    btnText.textContent = 'Read less';
+    btnArrow.textContent = '▲';
+  } else {
+    fullIntro.style.display = 'none';
+    btnText.textContent = 'Read more';
+    btnArrow.textContent = '▼';
+  }
+}
+</script>
 
 ---
 
