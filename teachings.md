@@ -94,12 +94,11 @@ permalink: /teachings_conferences/
    <h3 class="event-title">International AI-Semiconductor Conference - AISC 2025 </h3>
    <div class="event-meta">AISC 2025 - Startup Live Demo section</div>
    <img src="/assets/img/aisc2.jpeg" alt="AISC 2025" class="event-image">
-   <br class="event-description">
-The AI-Semiconductor Conference 2025 (AISC 2025) is a groundbreaking international event taking place March 12–14, 2025 in Hanoi, Vietnam. Organized by the Industrial AI Federation, AISC 2025 emerges as a global convergence of AI and semiconductor innovations. This inaugural event promises high-level discussions, keynotes from renowned technologists and industry CEOs, technical sessions, and networking receptions, offering attendees unique insights into how AI is reshaping the semiconductor industry—and vice versa.</br> 
+   <div class="event-description">
+The AI-Semiconductor Conference 2025 (AISC 2025) is a groundbreaking international event taking place March 12–14, 2025 in Hanoi, Vietnam. Organized by the Industrial AI Federation, AISC 2025 emerges as a global convergence of AI and semiconductor innovations. This inaugural event promises high-level discussions, keynotes from renowned technologists and industry CEOs, technical sessions, and networking receptions, offering attendees unique insights into how AI is reshaping the semiconductor industry—and vice versa.
 
-I had the privilege of presenting on stage at AISC 2025 before a sizable audience of industry leaders and influential guests. While most other startups opted for precautionary pre-recorded demos, I decided to go live and set up a real-time demonstration of Obello’s platform in just a few minutes. The crowd response and feedback were overwhelmingly positive, and it truly reinforced the value and impact of our solution.
-   
-<br></br>
+<p>I had the privilege of presenting on stage at AISC 2025 before a sizable audience of industry leaders and influential guests. While most other startups opted for precautionary pre-recorded demos, I decided to go live and set up a real-time demonstration of Obello's platform in just a few minutes. The crowd response and feedback were overwhelmingly positive, and it truly reinforced the value and impact of our solution.</p>
+   </div>
 <a href="https://www.aisc.events/" class="event-link" target="_blank">Event Details</a>
    <a href="https://www.linkedin.com/posts/linhnguyenkhanh_artificialintelligence-designtech-aiinnovation-activity-7305558713153556480-N1_B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuzNLkBTNoYVRnOrXUYJDCpEOnMtTQArOI" class="event-link" target="_blank">LinkedIn Post</a>
 </div>
