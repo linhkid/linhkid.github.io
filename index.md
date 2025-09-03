@@ -252,6 +252,19 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 <div class="position-item">
     <div class="company-logo">
+        <a href="https://antoan.ai" target="_blank">
+            <img src="/assets/logo/ain_black.png" alt="AI Safety Vietnam">
+        </a>
+    </div>
+    <div class="position-content">
+        <h3>Advisor & Technical Manager at AI Safety Vietnam</h3>
+        <div class="position-date">June 2025 – Present</div>
+        <p class="position-description">antoan.ai is Vietnam's AI safety community and an independent non-profit project, supported by Effective Altruism Vietnam with partnership with Hanoi AI Safety network, funded by Open Philanthropy that dedicated to supporting and creating opportunities for scholars, students, and experts in Vietnam to exchange ideas and practice AI safety, from technical implementations to policy development. Our initiatives include translation projects, hackathons, reading groups, and research practices that bridge the gap between theoretical AI safety concepts and practical applications in the Vietnamese context.</p>
+    </div>
+</div>
+
+<div class="position-item">
+    <div class="company-logo">
         <a href="https://www.datascience-works.com" target="_blank">
             <img src="/assets/logo/dswlogo.png" alt="DataScienceWorks" width="80" height="80">
         </a>
