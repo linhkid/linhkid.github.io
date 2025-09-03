@@ -316,8 +316,8 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 ## Awards & Recognition
 
-- **Gen.T Leader of Tomorrow 2025 - Technology Category** - Recognized as one of the Tatler Gen.T Leaders of Tomorrow 2025, an esteemed recognition that celebrates the most dynamic and impactful young leaders driving positive change across Vietnam and Asia (2025)
-- **Google Developer Expert (GDE) in AI/ML** - First female GDE AI/ML in Vietnam (2025)
+- **[Gen.T Leader of Tomorrow 2025 - Technology Category](https://www.tatlerasia.com/people/nguyen-khanh-linh-vn)** - Recognized as one of the Tatler Gen.T Leaders of Tomorrow 2025, an esteemed recognition that celebrates the most dynamic and impactful young leaders driving positive change across Vietnam and Asia (2025)
+- **[Google Developer Expert (GDE) in AI/ML](https://vnexpress.net/nu-ky-su-viet-dau-tien-tro-thanh-chuyen-gia-gde-cua-google-4871629.html)** - First female GDE AI/ML in Vietnam (2025)
 - **Top Artificial Intelligence (AI) Voice of LinkedIn** (2024)
 - **Finalist, ISS-MAS Data Visualization Hackathon** - Monetary Authority of Singapore & NUS (2015)
 - **Singapore Government Scholarship** - National University of Singapore (2015)
