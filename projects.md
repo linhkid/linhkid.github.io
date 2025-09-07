@@ -79,6 +79,20 @@ h3 { color: #7d3f3f; }
 
 <div class="project-card">
     <div class="project-header">
+        <h3 class="project-title">AI Safety Vietnam - Fall Research Fellowship 2025</h3>
+    </div>
+    <img src="/assets/img/antoan.ai-fellowship.png" alt="AI Safety Vietnam Fellowship">
+    <p>Advanced AI systems are coming, and leading AI experts have warned about catastrophic, even existential, risks that may potentially arise from these systems.</p>
+    <p>We (antoan.ai - AI Safety Vietnam) are partnering with Hanoi AI Safety Network to offer a Summer Research Fellowship focused on the technical aspects of AI safety. Previous participants have published research at ICLR, ICML, and AAAI. Projects span safety evaluations, interpretability, AI control, adversarial robustness, and more.</p>
+    <p>We review applications on a rolling basis, with the deadline to apply being Monday July 28th 23:59 AOE.</p>
+    <div class="project-links">
+        <a href="https://lnkd.in/gYd4rUxY">📝 Apply Now</a>
+        <a href="https://antoan.ai">🌐 AI Safety Vietnam</a>
+    </div>
+</div>
+
+<div class="project-card">
+    <div class="project-header">
         <h3 class="project-title">Crafting Resilient AI: A Hands-on Workshop on Attacks, Defenses, and Alignment
 </h3>
     </div>
