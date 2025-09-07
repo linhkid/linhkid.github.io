@@ -95,7 +95,7 @@ permalink: /speaking/
 <div class="event-container" style="background: #f8f9fa; border-left: 4px solid #631919; padding: 1.5rem; margin-bottom: 2rem;">
    <h3 class="event-title">Effective Altruism Vietnam 2025 Summit - Introduction to AI Safety and AI Alignment: From Concepts to Practices</h3>
    <div class="event-meta">2025</div>
-   <img src="/assets/img/eavn_2025_1.jpg" alt="Effective Altruism Vietnam 2025 Summit" class="event-image">
+   <img src="/assets/img/eavn_2025_1.jpeg" alt="Effective Altruism Vietnam 2025 Summit" class="event-image">
    <div class="event-description">
        Details to be announced. This session will explore the fundamental concepts of AI Safety and AI Alignment, bridging theoretical foundations with practical implementations for building beneficial AI systems.
    </div>
