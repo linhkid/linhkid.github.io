@@ -90,7 +90,7 @@ permalink: /speaking/
 
 # Speaking Engagements & Workshops
 
-## Upcoming Updates
+<!-- ## Upcoming Updates
 
 <div class="event-container" style="background: #f8f9fa; border-left: 4px solid #631919; padding: 1.5rem; margin-bottom: 2rem;">
    <h3 class="event-title">Effective Altruism Vietnam 2025 Summit - Introduction to AI Safety and AI Alignment: From Concepts to Practices</h3>
@@ -108,9 +108,29 @@ permalink: /speaking/
    <div class="event-description">
        Join me at AgentCon 2025 where I'll be speaking about the critical intersection of agentic AI development and safety considerations. This talk will explore how we can build autonomous AI systems that are both powerful and aligned with human values, covering practical approaches to ensure safety in increasingly autonomous AI agents.
    </div>
-</div>
+</div> -->
 
 ## Past Events
+
+<div class="event-container">
+   <h3 class="event-title">Effective Altruism Vietnam 2025 Summit - Introduction to AI Safety and AI Alignment: From Concepts to Practices</h3>
+   <div class="event-meta">2025</div>
+   <img src="/assets/img/eavn_2025_1.jpeg" alt="Effective Altruism Vietnam 2025 Summit" class="event-image">
+   <div class="event-description">
+       <p>With a deep passion for AI Safety and responsible AI development, I presented on "AI Safety & AI Alignment: From Concepts to Implementation" at Effective Altruism EA Summit Vietnam 2025 on Saturday, September 20, 2025. I participated as Technical Manager at antoan.ai (AI Safety Vietnam) alongside Jord Nguyen - an independent researcher from Apart Research. </p>
+       
+        <p>In the context of AI developing at a breakneck pace, ensuring AI systems operate safely and align with human values has never been more critical. I presented on fundamental concepts of AI safety and alignment, as well as techniques for developing ethical AI that ensures value for humanity and greater robustness. This was an excellent opportunity to meet and learn from a community of people who share the same vision for a sustainable and beneficial AI future for humanity. </p>
+   </div>
+</div>
+
+<div class="event-container">
+   <h3 class="event-title">AgentCon 2025 - Agentic AI: Aligning Intelligence and Ensuring Safety in Autonomous Systems</h3>
+   <div class="event-meta">September 2025</div>
+   <img src="/assets/img/AgentCon2025_1.jpeg" alt="AgentCon 2025" class="event-image">
+   <div class="event-description">
+       At AgentCon 2025, I spoke about the critical intersection of agentic AI development and safety considerations. This talk explored how we can build autonomous AI systems that are both powerful and aligned with human values, covering practical approaches to ensure safety in increasingly autonomous AI agents.
+   </div>
+</div>
 
 <div class="event-container">
    <h3 class="event-title">Google for Startups Vietnam 2025 - AI Bootcamp</h3>
