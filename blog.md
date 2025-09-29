@@ -94,6 +94,8 @@ title: Blog
 <div class="blog-container">
     <div class="blog-grid">
 
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/beyond-determinism-the-hidden-ripple" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+
         <iframe src="https://neuropurrfectai.substack.com/embed/p/alphageometry-deepminds-mathematical" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/deepseek-r1-a-new-era-in-deep-thinking" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
