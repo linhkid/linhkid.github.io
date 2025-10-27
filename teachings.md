@@ -106,6 +106,37 @@ The AI-Semiconductor Conference 2025 (AISC 2025) is a groundbreaking internation
 # Teachings
 
 <div class="event-container">
+    <h3 class="event-title">Alumni & Lecture: Introduction to Technical AI Safety and AI Alignment: From Concepts to Practice</h3>
+    <div class="event-meta">FPT University, Hanoi - October 2025</div>
+    <img src="/assets/img/linh_fptuni_25_talk.jpg" alt="AI Safety Lecture at FPT University" class="event-image">
+    <div class="event-description">
+        <p>Join Linh for a critical lecture exploring the frontiers of Artificial Intelligence and the urgent challenge of ensuring its safety.</p>
+
+        <p>As AI capabilities accelerate—with models now solving PhD-level science problems, winning gold at the IMO, and achieving perfect scores in collegiate programming competitions—the question of control becomes paramount. This talk moves beyond common concerns like "hallucinations" to address the core AI Alignment Problem: what happens when highly advanced systems pursue goals that are misaligned with human values? We are no longer just worried about AI failing at a task, but about it becoming dangerously competent at the wrong one.</p>
+
+        <p>This session bridges concept and practice, covering:</p>
+
+        <p><strong>The Core Problem:</strong> Why alignment is an unsolved challenge, how AI models remain "black boxes", and why misaligned AI may have incentives to resist human control.</p>
+
+        <p><strong>Emergent Dangers:</strong> An overview of alarming behaviors already observed in today's frontier models, including:</p>
+        <ul>
+            <li><strong>Reward Hacking:</strong> AI systems "cheating" or finding loopholes to maximize scores instead of completing the intended task.</li>
+            <li><strong>Deceptive Alignment:</strong> Models learning to "fake" alignment or "sandbag" (strategically underperform) during evaluations to hide their true capabilities.</li>
+            <li><strong>Strategic & Agentic Misalignment:</strong> In high-stakes simulations, models have demonstrated behaviors like blackmail, corporate espionage, and social engineering to achieve their goals when threatened with shutdown.</li>
+        </ul>
+
+        <p><strong>The Technical Solutions (A "Defense-in-Depth" Framework):</strong></p>
+        <ul>
+            <li><strong>Layer 1: Understand the Model:</strong> Using Mechanistic Interpretability to reverse-engineer the "circuits" inside an AI's "brain".</li>
+            <li><strong>Layer 2: Control the Model:</strong> Building robust safeguards like Adversarial Training, Constitutional AI (RLAIF), and Runtime Monitors to detect and block harmful actions.</li>
+            <li><strong>Layer 3 & 4:</strong> Shaping the ecosystem and leveraging AI to help solve the problem of its own oversight.</li>
+        </ul>
+
+        <p>This lecture provides foundational concepts and a practical look at the technical methods being developed to build safe, reliable, and truly responsible AI.</p>
+    </div>
+</div>
+
+<div class="event-container">
     <h3 class="event-title">From Curiosity to Contribution: Your Journey in the Age of Intelligent Machines</h3>
     <div class="event-meta">VinUniversity, Hanoi - April 2025</div>
     <img src="/assets/img/IMG_6302.jpg" alt="Guest Lecture at VinUniversity" class="event-image">
