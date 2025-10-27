@@ -106,13 +106,12 @@ The AI-Semiconductor Conference 2025 (AISC 2025) is a groundbreaking internation
 # Teachings
 
 <div class="event-container">
-    <h3 class="event-title">Alumni & Lecture: Introduction to Technical AI Safety and AI Alignment: From Concepts to Practice</h3>
+    <h3 class="event-title">Alumni Talk & Lecture: Introduction to Technical AI Safety and AI Alignment: From Concepts to Practice</h3>
     <div class="event-meta">FPT University, Hanoi - October 2025</div>
     <img src="/assets/img/linh_fptuni_25_talk.jpg" alt="AI Safety Lecture at FPT University" class="event-image">
     <div class="event-description">
-        <p>Join Linh for a critical lecture exploring the frontiers of Artificial Intelligence and the urgent challenge of ensuring its safety.</p>
 
-        <p>As AI capabilities accelerate—with models now solving PhD-level science problems, winning gold at the IMO, and achieving perfect scores in collegiate programming competitions—the question of control becomes paramount. This talk moves beyond common concerns like "hallucinations" to address the core AI Alignment Problem: what happens when highly advanced systems pursue goals that are misaligned with human values? We are no longer just worried about AI failing at a task, but about it becoming dangerously competent at the wrong one.</p>
+       <p>As AI capabilities accelerate—with models now solving PhD-level science problems, winning gold at the IMO, and achieving perfect scores in collegiate programming competitions—the question of control becomes paramount. This talk moves beyond common concerns like "hallucinations" to address the core AI Alignment Problem: what happens when highly advanced systems pursue goals that are misaligned with human values? We are no longer just worried about AI failing at a task, but about it becoming dangerously competent at the wrong one.</p>
 
         <p>This session bridges concept and practice, covering:</p>
 
