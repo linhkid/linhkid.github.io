@@ -247,7 +247,9 @@ h3 { color: #3a0000; }  /* Slate for smaller headers */
 <div markdown="1" style="flex: 1;">
 # Linh (Kid) Nguyen, Ms.
 
-#### *Google Developer Expert (GDE) in AI/ML, first female GDE AI/ML in Vietnam*
+#### *Google Developer Expert (GDE) in AI/ML*
+
+#### *AI Award, AI4VN Summit '25*
 
 #### *Top Artificial Intelligence (AI) Voice of LinkedIn '24*
 
@@ -395,6 +397,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 ## Awards & Recognition
 
+- **[AI Award - AI4VN 2025 Summit](https://vnexpress.net/5-tai-nang-ai-viet-duoc-vinh-danh-tai-ai-awards-2025-4943546.html)** - Recipient of the AI Award at this year's [AI4VN 2025 summit](https://vnexpress.net/khoa-hoc-cong-nghe/ai4vn-2025) (2025)
 - **[Gen.T Leader of Tomorrow 2025 - Technology Category](https://www.tatlerasia.com/people/nguyen-khanh-linh-vn)** - Recognized as one of the Tatler Gen.T Leaders of Tomorrow 2025, an esteemed recognition that celebrates the most dynamic and impactful young leaders driving positive change across Vietnam and Asia (2025)
 - **[Google Developer Expert (GDE) in AI/ML](https://vnexpress.net/nu-ky-su-viet-dau-tien-tro-thanh-chuyen-gia-gde-cua-google-4871629.html)** - [First female GDE AI/ML in Vietnam](https://developers.google.com/profile/u/linhkid91) (2025)
 - **Top Artificial Intelligence (AI) Voice of LinkedIn** (2024)
