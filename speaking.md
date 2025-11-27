@@ -122,10 +122,10 @@ permalink: /speaking/
        <p>I'm leading this session not just as a Google Developer Expert (GDE) in AI/ML, but also as someone passionate about deploying safe and robust AI systems as I volunteer at antoan.ai (AI Safety Vietnam) </p>
        <p>Last year, my codelab focused on adversarial attacks. This year, we're taking the next crucial step: building the internal defenses to protect agents from jailbreaks and manipulation.</p>
 
-<p>In 90 minutes, you will get practical, hands-on experience with:
-- Defending against jailbreaks
-- Implementing guardrails with the Google ADK
-- Using Model Armor & the LLM-as-a-Judge pattern</p>
+<p>In 90 minutes, you will get practical, hands-on experience with:</p>
+<p>- Defending against jailbreaks</p>
+<p>- Implementing guardrails with the Google ADK</p>
+<p>- Using Model Armor & the LLM-as-a-Judge pattern</p>
 
 <p>This is a hands-on session. No fluff, just code.</p>
    </div>
