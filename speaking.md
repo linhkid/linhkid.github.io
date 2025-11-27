@@ -112,6 +112,26 @@ permalink: /speaking/
 
 ## Past Events
 
+
+<div class="event-container">
+   <h3 class="event-title">Building Secure Multi-Agent Systems: Safety Guardrails Against Jailbreaks with Google ADK</h3>
+   <div class="event-meta">GDG Hanoi - Devfest November 2025</div>
+   <img src="/assets/img/devfest_hanoi_25.JPG" alt="DevFest 2025 Workshop HN" class="event-image">
+   <div class="event-description">
+       <p>Join my hands-on Codelab at DevFest Hanoi 2025 where we'll build a 🛡️ "shield" for multi-agent systems.</p>
+       <p>I'm leading this session not just as a Google Developer Expert (GDE) in AI/ML, but also as someone passionate about deploying safe and robust AI systems as I volunteer at antoan.ai (AI Safety Vietnam) </p>
+       <p>Last year, my codelab focused on adversarial attacks. This year, we're taking the next crucial step: building the internal defenses to protect agents from jailbreaks and manipulation.</p>
+
+<p>In 90 minutes, you will get practical, hands-on experience with:
+- Defending against jailbreaks
+- Implementing guardrails with the Google ADK
+- Using Model Armor & the LLM-as-a-Judge pattern</p>
+
+<p>This is a hands-on session. No fluff, just code.</p>
+   </div>
+   <a href="https://gdghanoi.com/events/2025/devfest" class="event-link" target="_blank">Event Details</a>
+</div>
+
 <div class="event-container">
    <h3 class="event-title">Effective Altruism Vietnam 2025 Summit - Introduction to AI Safety and AI Alignment: From Concepts to Practices</h3>
    <div class="event-meta">2025</div>
@@ -227,16 +247,6 @@ This workshop provides hands-on experience with Gemini 2.0, Google's latest mult
        Returned to IBM as a panel speaker, exactly 10 years after my postgrad internship, to discuss ethical innovation in AI. The session focused on the InstructLab framework, AI Alignment, and AI Safety principles. This invite-only event brought together 50 industry leaders and researchers, generating significant engagement with over 200 LinkedIn interactions discussing the future of responsible AI development.
    </div>
    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7259213003554750464/" class="event-link" target="_blank">Event Details</a>
-</div>
-
-<div class="event-container">
-   <h3 class="event-title">Google DevFest Events 2024</h3>
-   <div class="event-meta">GDG Hanoi & GDG MienTrung - November/December 2024</div>
-   <img src="/assets/img/resilientai24.jpeg" alt="DevFest 2024 Workshop" class="event-image">
-   <div class="event-description">
-       Conducted an intensive workshop on "Crafting Resilient AI: Attacks, Defenses, and Alignment" across multiple DevFest events. Using hands-on demonstrations with Keras, TensorFlow, and the new Gemma models, participants learned practical approaches to building robust AI systems. The workshops attracted over 250 developers and researchers, fostering dynamic discussions about AI safety and responsible development practices.
-   </div>
-   <a href="https://gdg.community.dev/events/details/google-gdg-ha-noi-presents-gdg-devfest-hanoi-2024-1/" class="event-link" target="_blank">Event Details</a>
 </div>
 
 <div class="event-container">

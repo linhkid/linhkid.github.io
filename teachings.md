@@ -137,7 +137,7 @@ The AI-Semiconductor Conference 2025 (AISC 2025) is a groundbreaking internation
 
 <div class="event-container">
     <h3 class="event-title">From Curiosity to Contribution: Your Journey in the Age of Intelligent Machines</h3>
-    <div class="event-meta">VinUniversity, Hanoi - April 2025</div>
+    <div class="event-meta">VinUniversity, Hanoi - April 2025</div>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                c
     <img src="/assets/img/IMG_6302.jpg" alt="Guest Lecture at VinUniversity" class="event-image">
     <div class="event-description">
         <p>Delivered a comprehensive 2-hour guest lecture in Professor Wray Buntine's AI course, exploring the intersection of technical excellence and ethical responsibility in AI development. The session covered practical pathways for students to contribute meaningfully to the open-source AI ecosystem while maintaining ethical standards and responsible practices.</p>
