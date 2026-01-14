@@ -115,10 +115,10 @@ permalink: /speaking/
 
 <div class="event-container">
    <h3 class="event-title">Building Secure Multi-Agent Systems: Safety Guardrails Against Jailbreaks with Google ADK</h3>
-   <div class="event-meta">GDG Hanoi - Devfest November 2025</div>
-   <img src="/assets/img/devfest_hanoi_25.JPG" alt="DevFest 2025 Workshop HN" class="event-image">
+   <div class="event-meta">GDG Hanoi & GDG Cloud HCM - Devfest November 2025</div>
+   <img src="/assets/img/devfest_hanoi_25.JPG" alt="DevFest 2025 Workshop HN & HCM" class="event-image">
    <div class="event-description">
-       <p>Join my hands-on Codelab at DevFest Hanoi 2025 where we'll build a 🛡️ "shield" for multi-agent systems.</p>
+       <p>Join my hands-on Codelab at DevFest Hanoi & DevFest Cloud HCM 2025 where we'll build a 🛡️ "shield" for multi-agent systems.</p>
        <p>I'm leading this session not just as a Google Developer Expert (GDE) in AI/ML, but also as someone passionate about deploying safe and robust AI systems as I volunteer at antoan.ai (AI Safety Vietnam) </p>
        <p>Last year, my codelab focused on adversarial attacks. This year, we're taking the next crucial step: building the internal defenses to protect agents from jailbreaks and manipulation.</p>
 
