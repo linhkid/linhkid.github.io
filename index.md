@@ -320,6 +320,21 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 
 <div class="position-item">
     <div class="company-logo">
+        <a href="https://www.aisafety.camp/" target="_blank">
+            <img src="/assets/logo/logo_aisc.png" alt="AISC">
+        </a>
+    </div>
+    <div class="position-content">
+        <h3>Associate Research Fellow</h3>
+        <div class="position-date">Jan 2026 – Present</div>
+        <p class="position-description">- Collaborate on a hands-on research and engineering effort to develop the Agentic Cognitive Governance Protocol. </p>
+        <p class="position-description">- Engage in open research to create reference-grade schemas, agents, and tests for AI governance.</p>
+    </div>
+</div>
+
+
+<div class="position-item">
+    <div class="company-logo">
         <a href="https://antoan.ai" target="_blank">
             <img src="/assets/logo/ain_black.png" alt="AI Safety Vietnam">
         </a>
