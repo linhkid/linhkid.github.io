@@ -93,7 +93,7 @@ title: Blog
         
 <div class="blog-container">
     <div class="blog-grid">
-        <iframe src="https://neuropurrfectai.substack.com/p/architecture-of-trust-defending-against" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
+        <iframe src="https://neuropurrfectai.substack.com/embed/p/architecture-of-trust-defending-against" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
         <iframe src="https://neuropurrfectai.substack.com/embed/p/beyond-determinism-the-hidden-ripple" class="substack-embed" frameborder="0" scrolling="yes"></iframe>
 
