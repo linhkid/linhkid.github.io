@@ -104,6 +104,17 @@ The AI-Semiconductor Conference 2025 (AISC 2025) is a groundbreaking internation
 </div>
 
 # Teachings
+<div class="event-container">
+    <h3 class="event-title">Session 4: The Shield of the Gemini Nexus: The Agentverse Series</h3>
+    <div class="event-meta">GDG on Campus UTM & GDG George Town - March 2026</div>
+    <img src="/assets/img/linh_gemini_nexus26.png" alt="Gemini Nexus 2026" class="event-image">
+    <div class="event-description">
+
+       <p>In collaboration with Google Developer Groups (GDG) on Campus Universiti Teknologi Malaysia (UTM) and GDG George Town, a hands-on technical workshop was conducted for over 100 student developers. The session focused on the fundamentals of AI safety and the architecture of secure multi-agent systems. Participants gained practical experience defending against adversarial threats, including prompt injections and jailbreaks, by implementing the Google Agent Development Kit (ADK), LLM-as-a-Judge, and Google Cloud Model Armor.</p>
+
+        <p>This lecture provides foundational concepts and a practical look at the technical methods being developed to build safe, reliable, and truly responsible AI.</p>
+    </div>
+</div>
 
 <div class="event-container">
     <h3 class="event-title">Alumni Talk & Lecture: Introduction to Technical AI Safety and AI Alignment: From Concepts to Practice</h3>
