@@ -112,6 +112,48 @@ permalink: /speaking/
 
 ## Past Events
 
+<div class="event-container">
+   <h3 class="event-title">Build with Gemini: From AI Studio to Real-World Applications</h3>
+   <div class="event-meta">GDG on Campus UTM & Monash University Malaysia - March 2026</div>
+   <img src="/assets/img/MyAI Future Hackathon.png" alt="Build with Gemini Workshop" class="event-image">
+   <div class="event-description">
+       <p>Explored how developers move beyond prompts to build intelligent, real-world systems powered by Gemini, from rapid prototyping in Google AI Studio to building production-ready applications with the Gemini API.</p>
+
+<p>What You'll Build With:</p>
+<p>- Gemini Models (Multimodal AI)</p>
+<p>- Google AI Studio (Rapid Prototyping)</p>
+<p>- Gemini API (Application Development)</p>
+<p>- Tools & Function Calling</p>
+<p>- AI Agents & Intelligent Workflows</p>
+<p>- Real-World Integrations (Search, Maps & APIs)</p>
+   </div>
+   <div class="event-stats">
+       <ul>
+           <li>120 attendees</li>
+       </ul>
+   </div>
+   <a href="https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia-presents-build-with-gemini-from-ai-studio-to-real-world-applications/cohost-gdg-on-campus-monash-university-malaysia-selangor-malaysia/" class="event-link" target="_blank">Event Details</a>
+</div>
+
+<div class="event-container">
+   <h3 class="event-title">The AI Evolution: A Foundational Guide from ML to AI Agents</h3>
+   <div class="event-meta">Packt Webinar - April 2026</div>
+   <img src="/assets/img/packt_linh_26.jpeg" alt="Packt Webinar - The AI Evolution" class="event-image">
+   <div class="event-description">
+       <p>The webinar offered a clear and structured walkthrough of how the field has evolved from traditional machine learning to modern AI systems and agentic workflows. It was especially valuable to see how these concepts connect to real-world applications and where the future of AI is headed.</p>
+
+<p>Key takeaways from the session:</p>
+<p>- Understanding the shift from ML models to GenAI systems</p>
+<p>- How agentic AI is enabling more autonomous and decision-driven workflows</p>
+<p>- Practical perspectives on applying AI in real-world scenarios</p>
+   </div>
+   <div class="event-stats">
+       <ul>
+           <li>100 attendees</li>
+       </ul>
+   </div>
+   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7441832031736614913/" class="event-link" target="_blank">Event Details</a>
+</div>
 
 <div class="event-container">
    <h3 class="event-title">Building Secure Multi-Agent Systems: Safety Guardrails Against Jailbreaks with Google ADK</h3>
