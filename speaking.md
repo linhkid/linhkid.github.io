@@ -86,6 +86,40 @@ permalink: /speaking/
 .event-link:hover {
    background: #f9cb9c;
 }
+
+details {
+   margin-bottom: 2rem;
+}
+
+summary {
+   cursor: pointer;
+   padding: 0.75rem 0;
+   list-style: none;
+}
+
+summary::-webkit-details-marker {
+   display: none;
+}
+
+summary h2 {
+   display: inline;
+   color: #631919;
+   margin: 0;
+}
+
+summary h2::before {
+   content: '▸ ';
+   font-size: 0.85em;
+   transition: transform 0.2s;
+}
+
+details[open] > summary h2::before {
+   content: '▾ ';
+}
+
+summary:hover h2 {
+   color: #7d3f3f;
+}
 </style>
 
 # Speaking Engagements & Workshops
@@ -110,7 +144,8 @@ permalink: /speaking/
    </div>
 </div> -->
 
-## Past Events
+<details open>
+<summary><h2>2026</h2></summary>
 
 <div class="event-container">
    <h3 class="event-title">Build with Gemini: From AI Studio to Real-World Applications</h3>
@@ -154,6 +189,11 @@ permalink: /speaking/
    </div>
    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7441832031736614913/" class="event-link" target="_blank">Event Details</a>
 </div>
+
+</details>
+
+<details>
+<summary><h2>2025</h2></summary>
 
 <div class="event-container">
    <h3 class="event-title">Building Secure Multi-Agent Systems: Safety Guardrails Against Jailbreaks with Google ADK</h3>
@@ -278,8 +318,13 @@ This workshop provides hands-on experience with Gemini 2.0, Google's latest mult
    </div>
    <a href="https://www.facebook.com/share/p/192eh51fLX/" class="event-link" target="_blank">Event Details</a>
    <a href="https://docs.google.com/presentation/d/1gJB7jp2rN3e518ZIhOq_FixNm2fllyQcP8c5v7hoGtE/edit?usp=sharing" class="event-link" target="_blank">Full Slide</a>
-   
+
 </div>
+
+</details>
+
+<details>
+<summary><h2>2024 & Earlier</h2></summary>
 
 <div class="event-container">
    <h3 class="event-title">Leading AI: Collaboration meets Ethical Innovation</h3>
@@ -339,7 +384,5 @@ This workshop provides hands-on experience with Gemini 2.0, Google's latest mult
     </div>
 </div>
 
-<div style="text-align: center; margin-top: 3rem;">
-   <a href="/past-events" class="event-link">View More Past Events</a>
-</div>
+</details>
 
