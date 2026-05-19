@@ -91,6 +91,27 @@ permalink: /teachings_conferences/
 # Conferences
 
 <div class="event-container">
+   <h3 class="event-title">AI Engineer 2026: Beyond Flat Design Output and Autocomplete - Solving the Complex Design Problems and Enterprise Design Bottleneck with AI</h3>
+   <div class="event-meta">AI Engineer Singapore 2026 - May 2026</div>
+   <img src="/assets/img/AIELinh26.png" alt="AI Engineer Singapore 2026 - Beyond Flat Design Output and Autocomplete" class="event-image">
+   <div class="event-description">
+       <p>Taking the stage at AI Engineer Singapore 2026 to dig into one of the most persistent frustrations in enterprise GenAI adoption: design at scale.</p>
+
+       <p>Generative AI initially promised a massive relief for scaling digital content. However, the reality is that standard models often struggle with complex design parameters, frequently spitting out inconsistent pixel arrangements rather than the clean, scalable, flat design vector outputs that enterprises actually need - and rarely on-brand.</p>
+
+       <p>In this session - "Beyond Flat Design Output and Autocomplete: Solving the Complex Design Problems and Enterprise Design Bottleneck with AI" - we explore how agentic AI fundamentally resolves this historical bottleneck by moving beyond prompt-based "autocomplete" or heavily manual tools-based editors into true autonomous, goal-oriented and brand-specific execution.</p>
+
+       <p>I'll share a candid look at how we are actively solving this at Obello. The goal isn't to replace designers, but to elevate human designers back to their rightful role as strategic champions, rather than repetitive pixel-pushers.</p>
+
+       <p>📅 Date: May 15–17, 2026</p>
+       <p>📍 Location: The Capitol Theatre Singapore</p>
+
+       <p>If you are an engineer, founder, designer, or operator looking to have sharper conversations about what it actually takes to build with AI, this is the conference to attend.</p>
+   </div>
+   <a href="https://www.ai.engineer/singapore" class="event-link" target="_blank">Event Details</a>
+</div>
+
+<div class="event-container">
    <h3 class="event-title">International AI-Semiconductor Conference - AISC 2025 </h3>
    <div class="event-meta">AISC 2025 - Startup Live Demo section</div>
    <img src="/assets/img/aisc2.jpeg" alt="AISC 2025" class="event-image">

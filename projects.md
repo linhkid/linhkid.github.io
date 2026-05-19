@@ -68,6 +68,19 @@ h3 { color: #7d3f3f; }
 
 <div class="project-card">
     <div class="project-header">
+        <h3 class="project-title">Pallas-Forge: Auto-tuning Framework for Pallas Kernels on Google TPU</h3>
+    </div>
+    <img src="/assets/img/pallas-forge.png" alt="Pallas-Forge">
+    <p>A lightweight auto-tuning framework for <a href="https://jax.readthedocs.io/en/latest/pallas/index.html">Pallas</a> kernels on Google TPU. Pallas-Forge helps systematically find the right block-size configuration for a Pallas kernel — and honestly answer the question "is my custom kernel actually beating XLA?". It ships three reference kernels (Tiled MatMul, Fused RMSNorm + Residual, Fused SwiGLU/GeGLU), a kernel-agnostic auto-tuner with proper warmup and timing discipline, plus performance heatmaps, roofline charts, and XProf trace capture as first-class outputs.</p>
+    <p>Measured on TPU v5e: the Fused RMSNorm + Residual kernel achieves a <strong>3.44× speedup over XLA</strong> by eliminating HBM round-trips, while the block-size sweep reveals a 3.56× spread between worst and best configs — the exact case for systematic tuning instead of guess-and-check.</p>
+    <div class="project-links">
+        <a href="https://github.com/linhkid/pallas-forge">💻 GitHub</a>
+        <a href="https://neuropurrfectai.substack.com/p/part-1-why-pallas-googles-tpu-needs">📄 Blog</a>
+    </div>
+</div>
+
+<div class="project-card">
+    <div class="project-header">
         <h3 class="project-title">LLM & GenAI Projects at Obello</h3>
     </div>
     <img src="/assets/img/obello_banner.png" alt="Obello Banner">

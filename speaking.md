@@ -148,6 +148,22 @@ summary:hover h2 {
 <summary><h2>2026</h2></summary>
 
 <div class="event-container">
+   <h3 class="event-title">Crossing the GenAI Chasm: From Potential to Real-World Impact</h3>
+   <div class="event-meta">NUS-ISS Insight Series Panel - April 2026</div>
+   <img src="/assets/img/24Apr.JPG" alt="NUS-ISS Insight Series - Crossing the GenAI Chasm" class="event-image">
+   <div class="event-description">
+       <p>Unpacking what it takes to turn GenAI into real business impact. From pilots to scale, industry leaders break down why many GenAI initiatives struggle to move forward, and what it takes to design for real, sustained value.</p>
+
+       <p>Joined fellow speakers Mr BoonNam Goh, Mr Adrian Lee, and Dr Ivan J. on the NUS-ISS Insight Series panel for a conversation aimed at those exploring GenAI or driving transformation initiatives in their organizations.</p>
+
+       <p>📅 Date: Friday, 24 April 2026</p>
+       <p>🕝 Time: 2:30 PM - 4:00 PM</p>
+       <p>📍 Venue: Inspire Theatre, NUS-ISS</p>
+   </div>
+   <a href="https://www.eventbrite.sg/e/crossing-the-genai-chasm-from-potential-to-real-world-impact-tickets-1985792316274?aff=Eventpage?utm_source=LinkedIn&utm_medium=organic&utm_campaign=CrossingTheGenAIChasm_Reminder_EventBrite_LI_20April26" class="event-link" target="_blank">Event Details</a>
+</div>
+
+<div class="event-container">
    <h3 class="event-title">Build with Gemini: From AI Studio to Real-World Applications</h3>
    <div class="event-meta">GDG on Campus UTM & Monash University Malaysia - March 2026</div>
    <img src="/assets/img/MyAI Future Hackathon.png" alt="Build with Gemini Workshop" class="event-image">
