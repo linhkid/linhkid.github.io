@@ -81,6 +81,7 @@ h3 { color: #7d3f3f; }
         <li><strong>Source-Conditioned Superiority</strong>: Demonstrates that source-aware repair methods significantly outperform traditional source-agnostic redrawing and general generators, establishing a foundation for smarter, more seamless design automation.</li>
     </ul>
     <div class="project-links">
+        <a href="https://github.com/ZaloAITryAgain/Multimodal-Program-Synthesis-For-Layout-Generation">💻 GitHub</a>
         <a href="https://genaicreativity.org/icml2026/files/77/77_paper.pdf">📄 Paper (PDF)</a>
         <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cOQ7XW4AAAAJ&citation_for_view=cOQ7XW4AAAAJ:qjMakFHDy7sC">🎓 Google Scholar</a>
         <a href="https://genaicreativity.org/">🌐 Workshop</a>
