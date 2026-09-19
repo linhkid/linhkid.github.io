@@ -405,7 +405,7 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 </div>
 
 ## Selected Publications
-1. ["Repairing Layouts After Design Changes: A Source-Conditioned Benchmark"](https://genaicreativity.org/icml2026/files/77/77_paper.pdf) - ICML (2026)
+1. ["Repairing Layouts After Design Changes: A Source-Conditioned Benchmark"](https://genaicreativity.org/icml2026/files/77/77_paper.pdf) - 43th International Conference on Machine Learning (ICML 2026)
 2. ["TraceGuard: Structured Multi-Dimensional Monitoring as a Collusion-Resistant Control Protocol"](https://apartresearch.com/project/traceguard-structured-multidimensional-monitoring-as-a-collusionresistant-control-protocol-dthe) - Apart Research (2026)
 3. ["LayoutArena: A Control Setting for Tool-Using Design Agents"](https://apartresearch.com/project/layoutarena-a-control-setting-for-toolusing-design-agents-elem) - Apart Research (2026)
 4. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/pii/S0950705123006512) - Knowledge-Based Systems Volume 279, 2023 (110901)
