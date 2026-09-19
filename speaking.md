@@ -148,6 +148,21 @@ summary:hover h2 {
 <summary><h2>2026</h2></summary>
 
 <div class="event-container">
+   <h3 class="event-title">Beyond Autocomplete: How Agentic AI Solves the Enterprise Design Bottleneck</h3>
+   <div class="event-meta">AI Agent Build Week 2026 (GenAI Fund) | VNG Campus - July 2026</div>
+   <img src="/assets/img/ai_agent_build_week_2026.jpg" alt="AI Agent Build Week 2026 - Beyond Autocomplete" class="event-image">
+   <div class="event-description">
+       <p>Third workshop of Day 3 at VNG Campus: Beyond Autocomplete: How Agentic AI Solves the Enterprise Design Bottleneck.</p>
+       <p>Most AI tools generate plausible pixels, not usable systems. This session was about the difference, and why it matters for anyone building real products.</p>
+       <p>Builders walked away with:</p>
+       <p>▪ A demo-driven walkthrough of agentic AI that plans, executes, and self-corrects toward a result you can actually ship</p>
+       <p>▪ How Obello treats brand guidelines as executable constraints, using their real work as the example</p>
+       <p>▪ A new way to think about what AI systems should actually do for you</p>
+   </div>
+   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7474775747669327872/" class="event-link" target="_blank">Event Details</a>
+</div>
+
+<div class="event-container">
    <h3 class="event-title">Crossing the GenAI Chasm: From Potential to Real-World Impact</h3>
    <div class="event-meta">NUS-ISS Insight Series Panel - April 2026</div>
    <img src="/assets/img/24Apr.JPG" alt="NUS-ISS Insight Series - Crossing the GenAI Chasm" class="event-image">
