@@ -68,6 +68,27 @@ h3 { color: #7d3f3f; }
 
 <div class="project-card">
     <div class="project-header">
+        <h3 class="project-title">Repairing Layouts After Design Changes: A Source-Conditioned Benchmark</h3>
+    </div>
+    <img src="/assets/img/icml26_layout_repair.jpg" alt="Repairing Graphic Design Layouts: ICML 2026 Poster" style="max-width: 100%; max-height: 750px; width: auto; height: auto; display: block; margin: 0 auto 15px auto;">
+    <p>Our research paper, <strong>"Repairing Layouts After Design Changes: A Source-Conditioned Benchmark"</strong> (full title: <em>"Repairing Graphic Design Layouts After Content, Asset, and Canvas Updates: A Source-Conditioned Benchmark"</em>), has been officially accepted to the <strong>GenAICreativity Workshop at ICML 2026</strong> in Seoul, South Korea!</p>
+    <p>Most layout benchmarks today focus entirely on one-shot generation from scratch. But in real-world design workflows, layouts already exist and constantly need to be adapted when text changes, asset sizes shift, or canvas formats alter. Rather than redrawing the whole canvas — which discards valuable brand styling and element placement — layouts should be <em>repaired</em>, fixing only affected regions while preserving the stable rest.</p>
+    <p>To address this, our paper introduces a comprehensive benchmark and evaluation framework for <strong>post-instantiation layout adaptation</strong>:</p>
+    <ul>
+        <li><strong>Large-Scale Dataset & Taxonomy</strong>: 117,318 instances across 23,302 source layouts covering six core modification types (<em>copy</em>, <em>asset</em>, <em>emphasis</em>, <em>structural</em>, <em>resize</em>, and <em>mixed</em>), plus a curated subset of 59 difficult, human-verified cases.</li>
+        <li><strong>Four Separately-Reported Metrics</strong>: Evaluates repairs across four distinct, uncollapsed dimensions — <em>Fidelity</em> (satisfies request & geometric validity), <em>Preservation</em> (retains unaffected structural relations), <em>Repair Quality</em> (measurably improves over the unrepaired layout), and <em>Locality</em> (prevents unaffected element drift).</li>
+        <li><strong>Leakage-Resistant Splits</strong>: Employs source-holdout and style-cluster holdout splits to avoid train-test contamination from reused templates and visual twins.</li>
+        <li><strong>Source-Conditioned Superiority</strong>: Demonstrates that source-aware repair methods significantly outperform traditional source-agnostic redrawing and general generators, establishing a foundation for smarter, more seamless design automation.</li>
+    </ul>
+    <div class="project-links">
+        <a href="https://genaicreativity.org/icml2026/files/77/77_paper.pdf">📄 Paper (PDF)</a>
+        <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cOQ7XW4AAAAJ&citation_for_view=cOQ7XW4AAAAJ:qjMakFHDy7sC">🎓 Google Scholar</a>
+        <a href="https://genaicreativity.org/">🌐 Workshop</a>
+    </div>
+</div>
+
+<div class="project-card">
+    <div class="project-header">
         <h3 class="project-title">Pallas-Forge: Auto-tuning Framework for Pallas Kernels on Google TPU</h3>
     </div>
     <img src="/assets/img/pallas-forge.png" alt="Pallas-Forge">

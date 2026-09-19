@@ -405,12 +405,13 @@ Spark) and Vector Database for Semantic searching like Chroma DB, Qdrant, Pineco
 </div>
 
 ## Selected Publications
-1. ["TraceGuard: Structured Multi-Dimensional Monitoring as a Collusion-Resistant Control Protocol"](https://apartresearch.com/project/traceguard-structured-multidimensional-monitoring-as-a-collusionresistant-control-protocol-dthe) - Apart Research (2026)
-2. ["LayoutArena: A Control Setting for Tool-Using Design Agents"](https://apartresearch.com/project/layoutarena-a-control-setting-for-toolusing-design-agents-elem) - Apart Research (2026)
-3. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/pii/S0950705123006512) - Knowledge-Based Systems Volume 279, 2023 (110901)
-4. ["A survey on empathetic dialogue systems"](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303092) - Information Fusion (2020)
-5. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
-6. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
+1. ["Repairing Layouts After Design Changes: A Source-Conditioned Benchmark"](https://genaicreativity.org/icml2026/files/77/77_paper.pdf) - ICML (2026)
+2. ["TraceGuard: Structured Multi-Dimensional Monitoring as a Collusion-Resistant Control Protocol"](https://apartresearch.com/project/traceguard-structured-multidimensional-monitoring-as-a-collusionresistant-control-protocol-dthe) - Apart Research (2026)
+3. ["LayoutArena: A Control Setting for Tool-Using Design Agents"](https://apartresearch.com/project/layoutarena-a-control-setting-for-toolusing-design-agents-elem) - Apart Research (2026)
+4. ["Aspect-based Automated Evaluation of Dialogues in Call Centers"](https://www.sciencedirect.com/science/article/pii/S0950705123006512) - Knowledge-Based Systems Volume 279, 2023 (110901)
+5. ["A survey on empathetic dialogue systems"](https://www.sciencedirect.com/science/article/abs/pii/S1566253520303092) - Information Fusion (2020)
+6. ["Effectiveness of Online Peer Support Group and Its Interventions: A Case Study of Beautiful Mind Vietnam"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
+7. ["Cyberbullying and its effects on Vietnamese youth"](assets/docs/THE_EFFECTS_OF_SOCIAL_MEDIA_ON_YOUTH_DEV.pdf) - Regional Conference of Psychology, Vietnam (2017)
 
 ## Awards & Recognition
 
